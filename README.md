@@ -150,26 +150,54 @@ We present results using **two complementary ranking approaches**:
 
 ### 5. ADMET Profiling (`ADMET.ipynb`)
 
-**Purpose**: Evaluates pharmacokinetic and drug-like properties of candidates.
+**Purpose**: Evaluates pharmacokinetic, drug-like properties, and toxicological risks of candidates.
+
+**Framework**: Combines RDKit and Mordred descriptors for comprehensive profiling.
 
 **Properties Calculated**:
 
-**Molecular Descriptors**:
+**Molecular Descriptors** (RDKit):
 - Molecular Weight (MW)
-- LogP (lipophilicity)
+- LogP (lipophilicity - Wildman-Crippen method)
 - Topological Polar Surface Area (TPSA)
+- Hydrogen Bond Donors (HBD) and Acceptors (HBA)
 - Rotatable Bonds
-- Heavy Atom Count
-- Ring Counts (total and aromatic)
-- Fraction CSP3
-- Molar Refractivity
+- QED Score (Quantitative Estimate of Drug-likeness)
+
+**Advanced Descriptors** (Mordred):
+- **SLogP**: Alternative lipophilicity calculation
+- **Bases**: Number of basic nitrogen atoms
+- **BertzCT**: Molecular complexity index
+- **Halogens**: Halogen atom count (F, Cl, Br, I)
 
 **Drug-Likeness Metrics**:
-- **Lipinski's Rule of Five**: MW ≤ 500, LogP ≤ 5, HBD ≤ 5, HBA ≤ 10
-- **Veber's Rules**: Rotatable bonds ≤ 10, TPSA ≤ 140
-- **QED Score**: Quantitative Estimate of Drug-likeness (0-1)
+- **Lipinski's Rule of Five Violations**: MW ≤ 500, LogP ≤ 5, HBD ≤ 5, HBA ≤ 10
+  - Violation count indicates oral bioavailability issues
 
-**Output**:  Comprehensive property profiles with violation counts
+**Toxicology Alerts & Risk Assessment**:
+
+1. **PAINS Filters** (Pan Assay Interference Compounds)
+   - Detects promiscuous binders and assay interference patterns
+   - Binary alert: 0 (Pass) or 1 (PAINS detected)
+
+2. **hERG Cardiotoxicity Risk**
+   - Based on: SLogP > 4.5 AND presence of basic nitrogens
+   - Output: "High" or "Low" risk
+   - Rationale: Lipophilic bases tend to block hERG potassium channels
+
+3. **Hepatotoxicity Risk**
+   - Based on: Molecular complexity (BertzCT > 1000) OR Halogens > 3
+   - Output: "High" or "Low" risk
+   - Rationale: Complex molecules and poly-halogenated compounds linked to liver toxicity
+
+**Risk Interpretation**:
+- **PAINS Alert = 1**: Likely assay interference, deprioritize
+- **hERG High Risk**: Potential QT prolongation, requires electrophysiology testing
+- **Hepato High Risk**: Requires hepatocyte toxicity assays
+- **Zero Lipinski Violations**: Favorable oral bioavailability profile
+
+**Output**: Comprehensive property profiles with drug-likeness violations and toxicity risk flags
+
 
 
 
