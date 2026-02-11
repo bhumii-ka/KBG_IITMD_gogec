@@ -23,7 +23,7 @@ This pipeline integrates three key approaches to identify and rank drug candidat
 ```
 Disease Signatures + Drug Perturbation Data
     ↓
-Gene Regulation Scoring (matching.ipynb)
+Gene Regulation Scoring (reg_scores.ipynb)
     ↓
 Drug-Target Binding Prediction (binding_score.ipynb)
     ↓
