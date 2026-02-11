@@ -1,0 +1,20 @@
+DOID,num_gt,num_pred,num_matched,recall,matched_drugs
+DOID:1240,12,115,10,0.8333333333333334,"['Methotrexate', 'Dasatinib', 'Dexamethasone', 'Azacitidine', 'Propofol', 'Sirolimus', 'Imatinib', 'Hydrocortisone', 'Bortezomib', 'Mycophenolic acid']"
+DOID:2394,6,99,4,0.6666666666666666,"['Carboplatin', 'Paclitaxel', 'Celecoxib', 'Methotrexate']"
+DOID:2154,1,90,0,0.0,[]
+DOID:0050589,2,82,1,0.5,['Hydrocortisone']
+DOID:3910,2,83,2,1.0,"['Carboplatin', 'Paclitaxel']"
+DOID:4556,2,102,2,1.0,"['Carboplatin', 'Paclitaxel']"
+DOID:0050742,1,102,0,0.0,[]
+DOID:3498,1,100,0,0.0,[]
+DOID:9256,3,84,0,0.0,[]
+DOID:971,1,110,1,1.0,['Hydrocortisone']
+DOID:381,1,98,1,1.0,['Ciprofloxacin']
+DOID:5082,1,108,1,1.0,['Dexamethasone']
+DOID:6432,2,93,1,0.5,['Imatinib']
+DOID:13949,1,109,1,1.0,['Mycophenolic acid']
+DOID:9008,2,91,0,0.0,[]
+DOID:419,1,100,1,1.0,['Imatinib']
+DOID:5409,3,91,1,0.3333333333333333,['Carboplatin']
+DOID:7147,4,105,2,0.5,"['Hydrocortisone', 'Diclofenac']"
+DOID:4450,2,86,2,1.0,"['Sorafenib', 'Sirolimus']"

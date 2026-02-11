@@ -1,0 +1,1578 @@
+drug_name,ind_id,ind_name
+Abiraterone,C0376358,Malignant neoplasm of prostate
+Alfacalcidol,C0342634,Neonatal hypocalcemia
+Alfacalcidol,C0020626,Hypoparathyroidism
+Alfacalcidol,C0020502,Hyperparathyroidism
+Alfacalcidol,C0035086,Renal Osteodystrophy
+Aminolevulinic acid,C0023532,"Leukoplakia, Oral"
+Aminolevulinic acid,C0206708,Cervical Intraepithelial Neoplasia
+Aminolevulinic acid,C0280483,adult anaplastic astrocytoma
+Aminolevulinic acid,C0280790,adult anaplastic oligodendroglioma
+Aminolevulinic acid,C1541316,adult giant cell glioblastoma
+Aminolevulinic acid,C0278878,adult glioblastoma
+Aminolevulinic acid,C1541317,adult gliosarcoma
+Aminolevulinic acid,C0278786,recurrent adult brain tumor
+Aminolevulinic acid,C0022602,Actinic keratosis
+Aminolevulinic acid,C0004114,Astrocytoma
+Aminolevulinic acid,C0555198,Malignant Glioma
+Aminolevulinic acid,C0017636,Glioblastoma
+Aminolevulinic acid,C1541316,adult giant cell glioblastoma
+Aminolevulinic acid,C0278878,adult glioblastoma
+Aminolevulinic acid,C3900099,Adult Mixed Glioma
+Aminolevulinic acid,C1541317,adult gliosarcoma
+Aminolevulinic acid,C0278786,recurrent adult brain tumor
+Anastrozole,C1562029,Hormone receptor positive malignant neoplasm of breast
+Anastrozole,C0278486,Breast cancer stage II
+Anastrozole,C0278493,Breast cancer recurrent
+Anastrozole,C2938924,Oestrogen receptor positive breast cancer
+Anastrozole,C0278486,Breast cancer stage II
+Anastrozole,C2938924,Oestrogen receptor positive breast cancer
+Anastrozole,C0028754,Obesity
+Anastrozole,C0020538,Hypertensive disease
+Atorvastatin,C0003850,Arteriosclerosis
+Atorvastatin,C0020479,Hyperlipoproteinemia Type III
+Atorvastatin,C0342881,Familial hypercholesterolemia - homozygous
+Atorvastatin,C0020473,Hyperlipidemia
+Atorvastatin,C0020474,"Hyperlipidemia, Familial Combined"
+Atorvastatin,C0020473,Hyperlipidemia
+Atorvastatin,C0242339,Dyslipidemias
+Atorvastatin,C0002963,"Angina Pectoris, Variant"
+Atorvastatin,C0342882,Familial hypercholesterolemia - heterozygous
+Atorvastatin,C0002962,Angina Pectoris
+Atorvastatin,C0020538,Hypertensive disease
+Atorvastatin,C0020443,Hypercholesterolemia
+Atorvastatin,C0021368,Inflammation
+Atorvastatin,C0011849,Diabetes Mellitus
+Atorvastatin,C1861172,Venous Thromboembolism
+Atorvastatin,C0010054,Coronary Arteriosclerosis
+Atorvastatin,C0948089,Acute Coronary Syndrome
+Atorvastatin,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent"
+Atorvastatin,C0033860,Psoriasis
+Atorvastatin,C0038454,Cerebrovascular accident
+Atorvastatin,C0242339,Dyslipidemias
+Atorvastatin,C0020557,Hypertriglyceridemia
+Azacitidine,C0026764,Multiple Myeloma
+Azacitidine,C0242006,Myelofibrosis due to another disorder
+Azacitidine,C0026764,Multiple Myeloma
+Azacitidine,C0023418,leukemia
+Azacitidine,C0023418,leukemia
+Azacitidine,C0023418,leukemia
+Azacitidine,C0023467,"Leukemia, Myelocytic, Acute"
+Azacitidine,C0023467,"Leukemia, Myelocytic, Acute"
+Azacitidine,C0279631,adult acute basophilic leukemia
+Azacitidine,C3463824,MYELODYSPLASTIC SYNDROME
+Azacitidine,C0279630,adult acute eosinophilic leukemia
+Azacitidine,C1292778,Chronic myeloproliferative disorder
+Azacitidine,C2825114,Adult Acute Myeloid Leukemia with inv(16)(p13.1q22); CBFB-MYH11
+Azacitidine,C0279094,adult acute myeloid leukemia in remission
+Azacitidine,C0279089,untreated adult acute myeloid leukemia
+Azacitidine,C2347748,Adult Erythroleukemia
+Azacitidine,C2347753,Adult Pure Erythroid Leukemia
+Azacitidine,C1332233,Alkylating Agent-Related Acute Myeloid Leukemia
+Azacitidine,C0278780,recurrent adult acute myeloid leukemia
+Azacitidine,C0280449,secondary acute myeloid leukemia
+Azacitidine,C0023467,"Leukemia, Myelocytic, Acute"
+Azacitidine,C0023480,"Leukemia, Myelomonocytic, Chronic"
+Azacitidine,C2347540,Adult Acute Myeloid Leukemia with t(8;21)(q22;q22); RUNX1-RUNX1T1
+Azacitidine,C0023418,leukemia
+Azathioprine,C0024143,Lupus Nephritis
+Azathioprine,C0024143,Lupus Nephritis
+Azathioprine,C0034069,Pulmonary Fibrosis
+Azathioprine,C0003873,Rheumatoid Arthritis
+Bexarotene,C0026764,Multiple Myeloma
+Bexarotene,C0036341,Schizophrenia
+Bexarotene,C0280100,Solid tumour
+Bexarotene,C0036337,Schizoaffective Disorder
+Bexarotene,C0079773,"Lymphoma, T-Cell, Cutaneous"
+Bortezomib,C0677714,Mantle cell lymphoma stage III
+Bortezomib,C1541270,Marginal zone lymphoma stage IV
+Bortezomib,C0279004,"unspecified adult solid tumor, protocol specific"
+Bortezomib,C1541468,adult grade III lymphomatoid granulomatosis
+Bortezomib,C0024305,"Lymphoma, Non-Hodgkin"
+Bortezomib,C2349261,Relapse multiple myeloma
+Bortezomib,C0862226,Mycosis fungoides/Sezary syndrome stage IV
+Bortezomib,C0855101,B-cell small lymphocytic lymphoma stage IV
+Bortezomib,C0279004,"unspecified adult solid tumor, protocol specific"
+Bortezomib,C0280187,recurrent adult diffuse mixed cell lymphoma
+Bortezomib,C0280186,recurrent adult diffuse small cleaved cell lymphoma
+Bortezomib,C1541469,recurrent adult grade III lymphomatoid granulomatosis
+Bortezomib,C0278530,recurrent adult Hodgkin's lymphoma
+Bortezomib,C0280190,recurrent adult immunoblastic large cell lymphoma
+Bortezomib,C0280191,recurrent adult lymphoblastic lymphoma
+Bortezomib,C1261281,Disorder of transplanted kidney
+Bortezomib,C0280188,recurrent adult diffuse large cell lymphoma
+Bortezomib,C0280182,recurrent grade 1 follicular lymphoma
+Bortezomib,C0280183,recurrent grade 2 follicular lymphoma
+Bortezomib,C0278987,Non-small cell lung cancer metastatic
+Bortezomib,C0278517,Non-small cell lung cancer recurrent
+Bortezomib,C0281240,AIDS-related peripheral/systemic lymphoma
+Bortezomib,C0280169,stage IV grade 1 follicular lymphoma
+Bortezomib,C0280170,stage IV grade 2 follicular lymphoma
+Bortezomib,C0280172,stage IV grade 3 follicular lymphoma
+Bortezomib,C0007102,Malignant tumor of colon
+Bortezomib,C0677721,Mantle cell lymphoma stage IV
+Bortezomib,C0862200,Mycosis fungoides/Sezary syndrome recurrent
+Bortezomib,C0855096,B-cell small lymphocytic lymphoma recurrent
+Bortezomib,C0280166,stage III adult Burkitt's lymphoma
+Bortezomib,C0280162,stage III adult diffuse large cell lymphoma
+Bortezomib,C0280161,stage III adult diffuse mixed cell lymphoma
+Bortezomib,C0677725,Mantle cell lymphoma recurrent
+Bortezomib,C0280185,recurrent grade 3 follicular lymphoma
+Bortezomib,C0280427,Adult T-cell lymphoma/leukaemia recurrent
+Bortezomib,C0024623,Malignant neoplasm of stomach
+Bortezomib,C0023418,leukemia
+Bortezomib,C0007120,Bronchioloalveolar Adenocarcinoma
+Bortezomib,C0280174,stage IV adult diffuse mixed cell lymphoma
+Bortezomib,C0677725,Mantle cell lymphoma recurrent
+Bortezomib,C0079731,B-Cell Lymphomas
+Bortezomib,C0242379,Malignant neoplasm of lung
+Bortezomib,C0280179,stage IV adult Burkitt's lymphoma
+Bortezomib,C0280165,stage III adult lymphoblastic lymphoma
+Bortezomib,C0280164,stage III adult immunoblastic large cell lymphoma
+Bortezomib,C0855100,B-cell small lymphocytic lymphoma stage III
+Bortezomib,C0280425,Adult T-cell lymphoma/leukaemia stage III
+Bortezomib,C1541273,Marginal zone lymphoma recurrent
+Bortezomib,C0278570,Cutaneous T-cell lymphoma stage III
+Bortezomib,C0280156,stage III grade 1 follicular lymphoma
+Bortezomib,C0280157,stage III grade 2 follicular lymphoma
+Bortezomib,C0280159,stage III grade 3 follicular lymphoma
+Bortezomib,C0862221,Mycosis fungoides/Sezary syndrome stage III
+Bortezomib,C0280173,stage IV adult diffuse small cleaved cell lymphoma
+Bortezomib,C0278472,stage III adult Hodgkin's lymphoma
+Bortezomib,C0278473,stage IV adult Hodgkin's lymphoma
+Bortezomib,C0206180,Ki-1+ Anaplastic Large Cell Lymphoma
+Bortezomib,C0020981,Angioimmunoblastic Lymphadenopathy
+Bortezomib,C0242647,Mucosa-Associated Lymphoid Tissue Lymphoma
+Bortezomib,C0855139,Monocytoid B-cell lymphoma
+Bortezomib,C0280192,recurrent adult Burkitt's lymphoma
+Bortezomib,C0280188,recurrent adult diffuse large cell lymphoma
+Bortezomib,C0278580,Cutaneous T-cell lymphoma recurrent
+Bortezomib,C0280160,stage III adult diffuse small cleaved cell lymphoma
+Bortezomib,C0280178,stage IV adult lymphoblastic lymphoma
+Bortezomib,C0280177,stage IV adult immunoblastic large cell lymphoma
+Bortezomib,C0024314,Lymphoproliferative Disorders
+Bortezomib,C0280182,recurrent grade 1 follicular lymphoma
+Bortezomib,C0280183,recurrent grade 2 follicular lymphoma
+Bortezomib,C0280185,recurrent grade 3 follicular lymphoma
+Bortezomib,C0280426,Adult T-cell lymphoma/leukaemia stage IV
+Bortezomib,C1541269,Marginal zone lymphoma stage III
+Bortezomib,C0278572,Cutaneous T-cell lymphoma stage IV
+Bortezomib,C0280175,stage IV adult diffuse large cell lymphoma
+Bortezomib,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+Bortezomib,C0026764,Multiple Myeloma
+Calcitriol,C0085682,Hypophosphatemia
+Calcitriol,C0035086,Renal Osteodystrophy
+Calcitriol,C0020626,Hypoparathyroidism
+Calcitriol,C0020598,Hypocalcemia
+Calcitriol,C0035579,Rickets
+Calcitriol,C0406317,Chronic small plaque psoriasis
+Carboplatin,C0278486,Breast cancer stage II
+Carboplatin,C0151779,Cutaneous Melanoma
+Carboplatin,C0854196,Hepatobiliary neoplasm
+Carboplatin,C0027819,Neuroblastoma
+Carboplatin,C0242379,Malignant neoplasm of lung
+Carboplatin,C0278984,Non-small cell lung cancer stage IIIB
+Carboplatin,C0278987,Non-small cell lung cancer metastatic
+Carboplatin,C0024305,"Lymphoma, Non-Hodgkin"
+Carboplatin,C0279975,recurrent ovarian germ cell tumor
+Carboplatin,C0278987,Non-small cell lung cancer metastatic
+Carboplatin,C0278689,Ovarian epithelial cancer recurrent
+Carboplatin,C0278493,Breast cancer recurrent
+Carboplatin,C2981371,Stage IB Esophageal Adenocarcinoma
+Carboplatin,C0919267,ovarian neoplasm
+Carboplatin,C0015558,Fallopian Tube Neoplasms
+Carboplatin,C0919267,ovarian neoplasm
+Carboplatin,C0280100,Solid tumour
+Carboplatin,C0919267,ovarian neoplasm
+Carboplatin,C1140680,Malignant neoplasm of ovary
+Carboplatin,C1336158,Stage IIA Esophageal Adenocarcinoma
+Carboplatin,C0242379,Malignant neoplasm of lung
+Carboplatin,C0919267,ovarian neoplasm
+Carboplatin,C0029928,Ovarian Diseases
+Carboplatin,C0238461,Anaplastic thyroid carcinoma
+Carboplatin,C0677886,Epithelial ovarian cancer
+Carboplatin,C0242379,Malignant neoplasm of lung
+Carboplatin,C0278517,Non-small cell lung cancer recurrent
+Carboplatin,C0278987,Non-small cell lung cancer metastatic
+Carboplatin,C0919267,ovarian neoplasm
+Carboplatin,C0149925,Small cell carcinoma of lung
+Carboplatin,C0242379,Malignant neoplasm of lung
+Carboplatin,C0007097,Carcinoma
+Carboplatin,C0007131,Non-Small Cell Lung Carcinoma
+Carboplatin,C1699634,HER-2 positive breast cancer
+Carboplatin,C0338341,untreated childhood medulloblastoma
+Carboplatin,C0278987,Non-small cell lung cancer metastatic
+Carboplatin,C0007131,Non-Small Cell Lung Carcinoma
+Carboplatin,C0206698,Cholangiocarcinoma
+Carboplatin,C0014859,Esophageal Neoplasms
+Carboplatin,C0242379,Malignant neoplasm of lung
+Carboplatin,C0242379,Malignant neoplasm of lung
+Carboplatin,C0242379,Malignant neoplasm of lung
+Carboplatin,C0242379,Malignant neoplasm of lung
+Carboplatin,C1707372,Chemotherapeutic Agent Toxicity
+Carboplatin,C2981374,Stage IIIC Esophageal Adenocarcinoma
+Carboplatin,C0279004,"unspecified adult solid tumor, protocol specific"
+Carboplatin,C0149925,Small cell carcinoma of lung
+Carboplatin,C0220647,Carcinoma of unknown primary
+Carboplatin,C0338333,untreated childhood supratentorial primitive neuroectodermal tumors
+Carboplatin,C0279663,Serous cystadenocarcinoma ovary
+Carboplatin,C1332166,Adenocarcinoma of the gastroesophageal junction
+Carboplatin,C0278517,Non-small cell lung cancer recurrent
+Carboplatin,C0007131,Non-Small Cell Lung Carcinoma
+Carboplatin,C2981372,Stage IIIA Esophageal Adenocarcinoma
+Carboplatin,C0919267,ovarian neoplasm
+Carboplatin,C0015558,Fallopian Tube Neoplasms
+Carboplatin,C2981373,Stage IIIB Esophageal Adenocarcinoma
+Carboplatin,C0007131,Non-Small Cell Lung Carcinoma
+Carboplatin,C0242379,Malignant neoplasm of lung
+Carboplatin,C0278983,Non-small cell lung cancer stage IIIA
+Carboplatin,C0278505,Non-small cell lung cancer stage II
+Carboplatin,C0345958,Large cell carcinoma of lung
+Carboplatin,C0152013,Adenocarcinoma of lung (disorder)
+Carboplatin,C0001418,Adenocarcinoma
+Carboplatin,C0334579,Anaplastic astrocytoma
+Carboplatin,C0014859,Esophageal Neoplasms
+Carboplatin,C0935657,cognitive/functional effects
+Carboplatin,C0279628,Adenocarcinoma Of Esophagus
+Carboplatin,C1336180,Stage IIB Esophageal Adenocarcinoma
+Celecoxib,C0242379,Malignant neoplasm of lung
+Celecoxib,C0038013,Ankylosing spondylitis
+Celecoxib,C0003873,Rheumatoid Arthritis
+Celecoxib,C0013390,Dysmenorrhea
+Celecoxib,C2215257,Acute postoperative pain
+Celecoxib,C0333875,High-Grade Squamous Intraepithelial Lesions
+Celecoxib,C0242379,Malignant neoplasm of lung
+Celecoxib,C1140680,Malignant neoplasm of ovary
+Celecoxib,C0029408,Degenerative polyarthritis
+Celecoxib,C0007102,Malignant tumor of colon
+Celecoxib,C0027627,Neoplasm Metastasis
+Celecoxib,C0032580,Adenomatous Polyposis Coli
+Celecoxib,C0032927,Precancerous Conditions
+Celecoxib,C0009404,Colorectal Neoplasms
+Celecoxib,C0007102,Malignant tumor of colon
+Chlorambucil,C0024301,"Lymphoma, Follicular"
+Chlorambucil,C0023434,Chronic Lymphocytic Leukemia
+Chlorambucil,C0019829,Hodgkin Disease
+Cholestyramine,C0020473,Hyperlipidemia
+Cholestyramine,C0020443,Hypercholesterolemia
+Ciprofloxacin,C0155860,Pneumonia due to Pseudomonas
+Ciprofloxacin,C0014836,Escherichia coli Infections
+Ciprofloxacin,C0275982,Enteric campylobacteriosis
+Ciprofloxacin,C1318973,Staphylococcus aureus infection
+Ciprofloxacin,C0520775,Klebsiella cystitis
+Ciprofloxacin,C0554628,Streptococcus pyogenes infection
+Ciprofloxacin,C0343402,Bacterial infection due to Klebsiella pneumoniae
+Ciprofloxacin,C0243001,Abdominal Abscess
+Ciprofloxacin,C1720797,Chronic Bacterial Prostatitis
+Ciprofloxacin,C1112209,Intraabdominal Infections
+Ciprofloxacin,C2242472,Infection of bone
+Ciprofloxacin,C1260917,Proteus pneumonia
+Ciprofloxacin,C0009768,Bacterial conjunctivitis
+Ciprofloxacin,C0041466,Typhoid Fever
+Ciprofloxacin,C0155804,Acute maxillary sinusitis
+Ciprofloxacin,C0004623,Bacterial Infections
+Ciprofloxacin,C0021368,Inflammation
+Ciprofloxacin,C0276088,Escherichia coli septicemia
+Ciprofloxacin,C0339932,Acute Moraxella catarrhalis bronchitis
+Ciprofloxacin,C0276089,Pneumonia due to Escherichia coli
+Ciprofloxacin,C0014347,Enterobacteriaceae Infections
+Ciprofloxacin,C0029878,Otitis Externa
+Ciprofloxacin,C0748196,PYELONEPHRITIS E COLI
+Ciprofloxacin,C0021355,Infective otitis externa
+Ciprofloxacin,C0013371,Shigella Infections
+Ciprofloxacin,C0178299,Infection of skin AND/OR subcutaneous tissue
+Ciprofloxacin,C0275652,Acute gonococcal urethritis
+Ciprofloxacin,C0033581,prostatitis
+Ciprofloxacin,C0158371,Acute osteomyelitis
+Ciprofloxacin,C0015967,Fever
+Ciprofloxacin,C0451641,Urolithiasis
+Ciprofloxacin,C0577709,Proteus urinary tract infection
+Ciprofloxacin,C0004626,"Pneumonia, Bacterial"
+Ciprofloxacin,C0600041,Infective cystitis
+Ciprofloxacin,C0149725,Lower respiratory tract infection
+Ciprofloxacin,C0729524,Bacterial urinary infection
+Ciprofloxacin,C0853852,Cystitis escherichia
+Ciprofloxacin,C0749958,URINARY TRACT INFECTION ENTEROCOCCUS
+Ciprofloxacin,C0577708,Escherichia coli urinary tract infection
+Ciprofloxacin,C0276026,Haemophilus influenzae pneumonia
+Ciprofloxacin,C0277528,Traveler's diarrhea
+Ciprofloxacin,C0010692,Cystitis
+Ciprofloxacin,C0007947,Chancroids
+Ciprofloxacin,C0003175,Anthrax disease
+Ciprofloxacin,C0877633,Haemophilus parainfluenzae pneumonia
+Ciprofloxacin,C0395818,Malignant otitis externa due to Pseudomonas aeruginosa
+Ciprofloxacin,C1096258,Enterobacter pneumonia
+Ciprofloxacin,C0035468,Rhinoscleroma
+Ciprofloxacin,C0949083,Nosocomial pneumonia
+Ciprofloxacin,C0157749,Arthropathy associated with infection
+Ciprofloxacin,C0749955,URINARY TRACT INFECTION CITROBACTER
+Ciprofloxacin,C0153195,Acute gonococcal cervicitis
+Ciprofloxacin,C0010346,Crohn Disease
+Cisplatin,C0280365,Verrucous carcinoma of the oral cavity recurrent
+Cisplatin,C0280390,Squamous cell carcinoma of the hypopharynx stage III
+Cisplatin,C0280397,Laryngeal squamous cell carcinoma stage III
+Cisplatin,C0014859,Esophageal Neoplasms
+Cisplatin,C0280402,Laryngeal verrucous carcinoma recurrent
+Cisplatin,C0280401,Laryngeal squamous cell carcinoma recurrent
+Cisplatin,C0280374,stage IV squamous cell carcinoma of the oropharynx
+Cisplatin,C0024623,Malignant neoplasm of stomach
+Cisplatin,C0280392,Squamous cell carcinoma of the hypopharynx recurrent
+Cisplatin,C0085136,Central Nervous System Neoplasms
+Cisplatin,C0262963,extragonadal germ cell tumor
+Cisplatin,C0025149,Medulloblastoma
+Cisplatin,C0206663,"Neuroectodermal Tumor, Primitive"
+Cisplatin,C0280353,stage III squamous cell carcinoma of the lip and oral cavity
+Cisplatin,C0280397,Laryngeal squamous cell carcinoma stage III
+Cisplatin,C0242379,Malignant neoplasm of lung
+Cisplatin,C0280363,recurrent squamous cell carcinoma of the lip and oral cavity
+Cisplatin,C0280386,Nasopharyngeal squamous cell carcinoma recurrent
+Cisplatin,C0280372,Oropharyngeal squamous cell carcinoma stage III
+Cisplatin,C0280376,Oropharyngeal squamous cell carcinoma recurrent
+Cisplatin,C0280391,Squamous cell carcinoma of the hypopharynx stage IV
+Cisplatin,C0280399,Laryngeal squamous cell carcinoma stage IV
+Cisplatin,C0279004,"unspecified adult solid tumor, protocol specific"
+Cisplatin,C0280419,recurrent squamous cell carcinoma of the paranasal sinus and nasal cavity
+Cisplatin,C0280358,stage IV squamous cell carcinoma of the lip and oral cavity
+Cisplatin,C0280353,stage III squamous cell carcinoma of the lip and oral cavity
+Cisplatin,C0280390,Squamous cell carcinoma of the hypopharynx stage III
+Cisplatin,C0280372,Oropharyngeal squamous cell carcinoma stage III
+Cisplatin,C0280372,Oropharyngeal squamous cell carcinoma stage III
+Cisplatin,C3897510,Stage IVC Lip and Oral Cavity Squamous Cell Carcinoma
+Cisplatin,C1336407,Stage IVC Oropharyngeal Squamous Cell Carcinoma
+Cisplatin,C3897509,Stage IVC Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma
+Cisplatin,C1332166,Adenocarcinoma of the gastroesophageal junction
+Cisplatin,C0279635,diffuse adenocarcinoma of the stomach
+Cisplatin,C0279633,intestinal adenocarcinoma of the stomach
+Cisplatin,C1336396,Stage IVC Laryngeal Verrucous Carcinoma
+Cisplatin,C1336405,Stage IVC Oral Cavity Verrucous Carcinoma
+Cisplatin,C0279638,mixed adenocarcinoma of the stomach
+Cisplatin,C0854761,Oesophageal carcinoma recurrent
+Cisplatin,C0278502,recurrent gastric cancer
+Cisplatin,C0279626,Squamous cell carcinoma of esophagus
+Cisplatin,C0278493,Breast cancer recurrent
+Cisplatin,C0278517,Non-small cell lung cancer recurrent
+Cisplatin,C2981365,Stage IIIC Gastric Cancer
+Cisplatin,C0278987,Non-small cell lung cancer metastatic
+Cisplatin,C0278562,Esophageal neoplasm metastatic
+Cisplatin,C1336395,Stage IVC Laryngeal Squamous Cell Carcinoma
+Cisplatin,C0280382,Nasopharyngeal squamous cell carcinoma stage III
+Cisplatin,C1336385,Stage IVB Oral Cavity Verrucous Carcinoma
+Cisplatin,C1336375,Stage IVB Laryngeal Verrucous Carcinoma
+Cisplatin,C0280411,stage III squamous cell carcinoma of the paranasal sinus and nasal cavity
+Cisplatin,C0280398,Laryngeal verrucous carcinoma stage III
+Cisplatin,C0280355,Verrucous carcinoma of the oral cavity stage III
+Cisplatin,C0280391,Squamous cell carcinoma of the hypopharynx stage IV
+Cisplatin,C0280384,Nasopharyngeal squamous cell carcinoma stage IV
+Cisplatin,C1336356,Stage IVA Oropharyngeal Squamous Cell Carcinoma
+Cisplatin,C1336343,Stage IVA Laryngeal Squamous Cell Carcinoma
+Cisplatin,C3897523,Stage IVA Lip and Oral Cavity Squamous Cell Carcinoma
+Cisplatin,C1336356,Stage IVA Oropharyngeal Squamous Cell Carcinoma
+Cisplatin,C3897522,Stage IVA Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma
+Cisplatin,C1336344,Stage IVA Laryngeal Verrucous Carcinoma
+Cisplatin,C0242379,Malignant neoplasm of lung
+Cisplatin,C1336354,Stage IVA Oral Cavity Verrucous Carcinoma
+Cisplatin,C1336374,Stage IVB Laryngeal Squamous Cell Carcinoma
+Cisplatin,C3897516,Stage IVB Lip and Oral Cavity Squamous Cell Carcinoma
+Cisplatin,C1336387,Stage IVB Oropharyngeal Squamous Cell Carcinoma
+Cisplatin,C3897515,Stage IVB Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma
+Cisplatin,C0279628,Adenocarcinoma Of Esophagus
+Cisplatin,C0043352,Xerostomia
+Cisplatin,C0024623,Malignant neoplasm of stomach
+Cisplatin,C0280374,stage IV squamous cell carcinoma of the oropharynx
+Cisplatin,C0280281,Regional Urothelial Carcinoma of the Renal Pelvis and Ureter
+Cisplatin,C0279937,Transitional cell cancer of renal pelvis and ureter metastatic
+Cisplatin,C0278773,localized unresectable adult primary liver cancer
+Cisplatin,C0278774,advanced adult primary liver cancer
+Cisplatin,C0153676,Secondary malignant neoplasm of lung
+Cisplatin,C0242379,Malignant neoplasm of lung
+Cisplatin,C0242379,Malignant neoplasm of lung
+Cisplatin,C0007137,Squamous cell carcinoma
+Cisplatin,C0149925,Small cell carcinoma of lung
+Cisplatin,C0334513,Sarcomatoid Mesothelioma
+Cisplatin,C0278753,Mesothelioma malignant recurrent
+Cisplatin,C0862312,"Epithelioid mesothelioma, malignant"
+Cisplatin,C0278752,Mesothelioma malignant advanced
+Cisplatin,C0346990,Carcinomatosis of peritoneal cavity
+Cisplatin,C0278577,Cervix carcinoma stage III
+Cisplatin,C0278582,Cervical carcinoma stage IB
+Cisplatin,C0149925,Small cell carcinoma of lung
+Cisplatin,C0280415,stage IV squamous cell carcinoma of the paranasal sinus and nasal cavity
+Cisplatin,C0007131,Non-Small Cell Lung Carcinoma
+Cisplatin,C0027498,Nausea and vomiting
+Cisplatin,C0677886,Epithelial ovarian cancer
+Cisplatin,C0024623,Malignant neoplasm of stomach
+Cisplatin,C0007137,Squamous cell carcinoma
+Cisplatin,C0278824,Bladder cancer stage III
+Cisplatin,C0279628,Adenocarcinoma Of Esophagus
+Cisplatin,C1167722,Pancreatic carcinoma stage III
+Cisplatin,C0278987,Non-small cell lung cancer metastatic
+Cisplatin,C0280240,Transitional cell cancer of the renal pelvis and ureter localised
+Cisplatin,C0279931,posterior urethral cancer
+Cisplatin,C0279912,Recurrent Urethral Cancer
+Cisplatin,C0280281,Regional Urothelial Carcinoma of the Renal Pelvis and Ureter
+Cisplatin,C0007131,Non-Small Cell Lung Carcinoma
+Cisplatin,C0026764,Multiple Myeloma
+Cisplatin,C0278824,Bladder cancer stage III
+Cisplatin,C0153619,Malignant neoplasm of ureter
+Cisplatin,C0279932,urethral carcinoma associated with invasive bladder cancer
+Cisplatin,C0280353,stage III squamous cell carcinoma of the lip and oral cavity
+Cisplatin,C0280382,Nasopharyngeal squamous cell carcinoma stage III
+Cisplatin,C0280372,Oropharyngeal squamous cell carcinoma stage III
+Cisplatin,C0278983,Non-small cell lung cancer stage IIIA
+Cisplatin,C1336190,Stage IIB Non-Small Cell Lung Carcinoma
+Cisplatin,C0278517,Non-small cell lung cancer recurrent
+Cisplatin,C0242379,Malignant neoplasm of lung
+Cisplatin,C0007097,Carcinoma
+Cisplatin,C0005695,Bladder Neoplasm
+Cisplatin,C0007097,Carcinoma
+Cisplatin,C0001418,Adenocarcinoma
+Cisplatin,C0278807,unresectable gallbladder cancer
+Cisplatin,C0278811,unresectable extrahepatic bile duct cancer
+Cisplatin,C1167725,Stage IV Pancreatic Cancer
+Cisplatin,C0278983,Non-small cell lung cancer stage IIIA
+Cisplatin,C0014859,Esophageal Neoplasms
+Cisplatin,C0685938,Malignant neoplasm of gastrointestinal tract
+Cisplatin,C0024623,Malignant neoplasm of stomach
+Cisplatin,C0279930,anterior urethral cancer
+Cisplatin,C0007137,Squamous cell carcinoma
+Cisplatin,C0242379,Malignant neoplasm of lung
+Cisplatin,C0338333,untreated childhood supratentorial primitive neuroectodermal tumors
+Cisplatin,C0338341,untreated childhood medulloblastoma
+Cisplatin,C0007131,Non-Small Cell Lung Carcinoma
+Cisplatin,C0280411,stage III squamous cell carcinoma of the paranasal sinus and nasal cavity
+Cisplatin,C0280391,Squamous cell carcinoma of the hypopharynx stage IV
+Cisplatin,C0280399,Laryngeal squamous cell carcinoma stage IV
+Cisplatin,C0280358,stage IV squamous cell carcinoma of the lip and oral cavity
+Cisplatin,C1707372,Chemotherapeutic Agent Toxicity
+Cisplatin,C1514428,Primary peritoneal carcinoma
+Cisplatin,C0280390,Squamous cell carcinoma of the hypopharynx stage III
+Cisplatin,C0280397,Laryngeal squamous cell carcinoma stage III
+Cisplatin,C0280384,Nasopharyngeal squamous cell carcinoma stage IV
+Cisplatin,C1140680,Malignant neoplasm of ovary
+Cisplatin,C1336708,Testicular Germ Cell Tumor
+Cisplatin,C1510432,Radiation Sickness
+Cisplatin,C0007137,Squamous cell carcinoma
+Cisplatin,C0087135,Unknown Primary Tumors
+Cisplatin,C0007131,Non-Small Cell Lung Carcinoma
+Citalopram,C0242379,Malignant neoplasm of lung
+Citalopram,C0024623,Malignant neoplasm of stomach
+Citalopram,C0007102,Malignant tumor of colon
+Citalopram,C0003467,Anxiety
+Citalopram,C0270549,Generalized Anxiety Disorder
+Citalopram,C0917801,Sleeplessness
+Citalopram,C0011581,Depressive disorder
+Citalopram,C0948089,Acute Coronary Syndrome
+Citalopram,C1269683,Major Depressive Disorder
+Cocaine,C0600427,Cocaine Dependence
+Cocaine,C0600427,Cocaine Dependence
+Colchicine,C0018099,Gout
+Colchicine,C0031069,Familial Mediterranean Fever
+Colchicine,C0268108,Chronic gouty arthritis
+Colchicine,C0524910,"Hepatitis C, Chronic"
+Cytarabine,C0279636,childhood acute myeloblastic leukemia with maturation (M2)
+Cytarabine,C0023418,leukemia
+Cytarabine,C0279650,childhood acute megakaryocytic leukemia (M7)
+Cytarabine,C0279647,childhood acute erythroleukemia (M6)
+Cytarabine,C0026764,Multiple Myeloma
+Cytarabine,C0279648,childhood acute eosinophilic leukemia
+Cytarabine,C0279649,childhood acute basophilic leukemia
+Cytarabine,C1541331,adult acute myeloid leukemia with t(8;21)(q22;q22)
+Cytarabine,C1541333,adult acute myeloid leukemia with inv(16)(p13;q22)
+Cytarabine,C0279089,untreated adult acute myeloid leukemia
+Cytarabine,C0279644,childhood acute myelomonocytic leukemia (M4)
+Cytarabine,C1541332,adult acute myeloid leukemia with t(16;16)(p13;q22)
+Cytarabine,C0280449,secondary acute myeloid leukemia
+Cytarabine,C1541340,adult pure erythroid leukemia (M6b)
+Cytarabine,C0279090,untreated childhood acute myeloid leukemia and other myeloid malignancies
+Cytarabine,C0281641,adult acute minimally differentiated myeloid leukemia (M0)
+Cytarabine,C0279629,adult acute monoblastic leukemia (M5a)
+Cytarabine,C0023418,leukemia
+Cytarabine,C0023418,leukemia
+Cytarabine,C0279634,childhood acute myeloblastic leukemia without maturation (M1)
+Cytarabine,C1541339,adult erythroleukemia (M6a)
+Cytarabine,C1541339,adult erythroleukemia (M6a)
+Cytarabine,C0279627,adult acute myelomonocytic leukemia (M4)
+Cytarabine,C0023418,leukemia
+Cytarabine,C0279623,Adult Acute Myeloid Leukemia without Maturation
+Cytarabine,C1541334,adult acute myeloid leukemia with 11q23 (MLL) abnormalities
+Cytarabine,C1541340,adult pure erythroid leukemia (M6b)
+Cytarabine,C0279089,untreated adult acute myeloid leukemia
+Cytarabine,C0242596,"Neoplasm, Residual"
+Cytarabine,C0279624,adult acute myeloblastic leukemia with maturation (M2)
+Cytarabine,C1332153,Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome
+Cytarabine,C0278780,recurrent adult acute myeloid leukemia
+Cytarabine,C0279632,adult acute megakaryoblastic leukemia (M7)
+Cytarabine,C1541331,adult acute myeloid leukemia with t(8;21)(q22;q22)
+Cytarabine,C1541332,adult acute myeloid leukemia with t(16;16)(p13;q22)
+Cytarabine,C1541335,adult acute myeloid leukemia with t(15;17)(q22;q12)
+Cytarabine,C1541333,adult acute myeloid leukemia with inv(16)(p13;q22)
+Cytarabine,C1541334,adult acute myeloid leukemia with 11q23 (MLL) abnormalities
+Cytarabine,C0279094,adult acute myeloid leukemia in remission
+Cytarabine,C1629504,Atypical Burkitt's lymphoma
+Cytarabine,C0279631,adult acute basophilic leukemia
+Cytarabine,C0279630,adult acute eosinophilic leukemia
+Cytarabine,C0279632,adult acute megakaryoblastic leukemia (M7)
+Cytarabine,C0281641,adult acute minimally differentiated myeloid leukemia (M0)
+Cytarabine,C0279629,adult acute monoblastic leukemia (M5a)
+Cytarabine,C0280634,adult acute monocytic leukemia (M5b)
+Cytarabine,C0280449,secondary acute myeloid leukemia
+Cytarabine,C0279624,adult acute myeloblastic leukemia with maturation (M2)
+Cytarabine,C0279623,Adult Acute Myeloid Leukemia without Maturation
+Cytarabine,C1541334,adult acute myeloid leukemia with 11q23 (MLL) abnormalities
+Cytarabine,C0279627,adult acute myelomonocytic leukemia (M4)
+Cytarabine,C2367453,acute leukemia in relapse
+Cytarabine,C0280634,adult acute monocytic leukemia (M5b)
+Cytarabine,C0948840,Meningeal Leukemia
+Cytarabine,C0023449,Acute lymphocytic leukemia
+Cytarabine,C0023467,"Leukemia, Myelocytic, Acute"
+Cytarabine,C0023487,Acute Promyelocytic Leukemia
+Cytarabine,C1704231,Metastatic Malignant Neoplasm to the Leptomeninges
+Dasatinib,C0242379,Malignant neoplasm of lung
+Dasatinib,C0017636,Glioblastoma
+Dasatinib,C0007131,Non-Small Cell Lung Carcinoma
+Dasatinib,C0006111,Brain Diseases
+Dasatinib,C0006111,Brain Diseases
+Dasatinib,C0023418,leukemia
+Dasatinib,C0279543,Philadelphia chromosome positive chronic myelogenous leukemia
+Dasatinib,C1960397,Philadelphia chromosome-positive acute lymphoblastic leukemia
+Dasatinib,C0023472,"Leukemia, Myeloid, Accelerated Phase"
+Dasatinib,C0023474,"Leukemia, Myeloid, Chronic-Phase"
+Dasatinib,C0007682,CNS disorder
+Dasatinib,C0242379,Malignant neoplasm of lung
+Dasatinib,C0005699,Blast Phase
+Dasatinib,C0007682,CNS disorder
+Dasatinib,C0017636,Glioblastoma
+Dasatinib,C0026764,Multiple Myeloma
+Decitabine,C1541332,adult acute myeloid leukemia with t(16;16)(p13;q22)
+Decitabine,C0279089,untreated adult acute myeloid leukemia
+Decitabine,C1541340,adult pure erythroid leukemia (M6b)
+Decitabine,C0280745,secondary myelodysplastic syndromes
+Decitabine,C0279623,Adult Acute Myeloid Leukemia without Maturation
+Decitabine,C0279624,adult acute myeloblastic leukemia with maturation (M2)
+Decitabine,C1541331,adult acute myeloid leukemia with t(8;21)(q22;q22)
+Decitabine,C1541332,adult acute myeloid leukemia with t(16;16)(p13;q22)
+Decitabine,C0278780,recurrent adult acute myeloid leukemia
+Decitabine,C0280744,previously treated myelodysplastic syndromes
+Decitabine,C1328061,"Myelodysplastic/myeloproliferative neoplasm, unclassifiable"
+Decitabine,C0280451,de novo myelodysplastic syndromes
+Decitabine,C1292772,"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative"
+Decitabine,C1541334,adult acute myeloid leukemia with 11q23 (MLL) abnormalities
+Decitabine,C1541333,adult acute myeloid leukemia with inv(16)(p13;q22)
+Decitabine,C0280449,secondary acute myeloid leukemia
+Decitabine,C0280449,secondary acute myeloid leukemia
+Decitabine,C1541335,adult acute myeloid leukemia with t(15;17)(q22;q12)
+Decitabine,C1541333,adult acute myeloid leukemia with inv(16)(p13;q22)
+Decitabine,C0023467,"Leukemia, Myelocytic, Acute"
+Decitabine,C0281641,adult acute minimally differentiated myeloid leukemia (M0)
+Decitabine,C0279632,adult acute megakaryoblastic leukemia (M7)
+Decitabine,C1332153,Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome
+Decitabine,C1541334,adult acute myeloid leukemia with 11q23 (MLL) abnormalities
+Decitabine,C0280634,adult acute monocytic leukemia (M5b)
+Decitabine,C1541331,adult acute myeloid leukemia with t(8;21)(q22;q22)
+Decitabine,C1541339,adult erythroleukemia (M6a)
+Decitabine,C0279004,"unspecified adult solid tumor, protocol specific"
+Decitabine,C0279627,adult acute myelomonocytic leukemia (M4)
+Decitabine,C0279629,adult acute monoblastic leukemia (M5a)
+Decitabine,C0279089,untreated adult acute myeloid leukemia
+Deferasirox,C0012715,Iron Metabolism Disorders
+Deferasirox,C1739382,Chronic iron overload
+Deferasirox,C0282193,Iron Overload
+Deferasirox,C0005283,beta Thalassemia
+Dexamethasone,C0037274,Dermatologic disorders
+Dexamethasone,C0003873,Rheumatoid Arthritis
+Dexamethasone,C0854826,T-cell lymphoma recurrent
+Dexamethasone,C0854827,T-cell lymphoma refractory
+Dexamethasone,C1290859,Disorder of shoulder
+Dexamethasone,C0729587,Infective blepharitis
+Dexamethasone,C0036202,Sarcoidosis
+Dexamethasone,C0038013,Ankylosing spondylitis
+Dexamethasone,C0040147,Thyroiditis
+Dexamethasone,C0026764,Multiple Myeloma
+Dexamethasone,C0011616,Contact Dermatitis
+Dexamethasone,C0149922,Lichen Simplex Chronicus
+Dexamethasone,C0154301,Acquired thrombocytopenia
+Dexamethasone,C0024138,"Lupus Erythematosus, Discoid"
+Dexamethasone,C0005138,Berylliosis
+Dexamethasone,C1275687,Herpes zoster keratitis
+Dexamethasone,C0033777,Pruritus of genital organs
+Dexamethasone,C0036508,Seborrheic dermatitis
+Dexamethasone,C0406317,Chronic small plaque psoriasis
+Dexamethasone,C0085074,Granuloma Annulare
+Dexamethasone,C0006114,Cerebral Edema
+Dexamethasone,C0033860,Psoriasis
+Dexamethasone,C0011606,Exfoliative dermatitis
+Dexamethasone,C0036830,Serum Sickness
+Dexamethasone,C0041321,"Tuberculosis, Miliary"
+Dexamethasone,C0019829,Hodgkin Disease
+Dexamethasone,C0010043,Corneal Ulcer
+Dexamethasone,C0011615,"Dermatitis, Atopic"
+Dexamethasone,C0701163,Adrenogenital disorder
+Dexamethasone,C0024301,"Lymphoma, Follicular"
+Dexamethasone,C0014742,Erythema Multiforme
+Dexamethasone,C0001403,Addison Disease
+Dexamethasone,C0010543,Cyclitis
+Dexamethasone,C0010346,Crohn Disease
+Dexamethasone,C0040896,Trichinellosis
+Dexamethasone,C0345468,Transplanted organ rejection
+Dexamethasone,C0015397,Disorder of eye
+Dexamethasone,C0339507,Branch retinal vein occlusion with macular edema
+Dexamethasone,C0009766,Allergic Conjunctivitis
+Dexamethasone,C0022548,Keloid
+Dexamethasone,C1532240,Disorder of rotator cuff
+Dexamethasone,C1996944,Disorder of tendon of biceps
+Dexamethasone,C0023418,leukemia
+Dexamethasone,C0023418,leukemia
+Dexamethasone,C0242379,Malignant neoplasm of lung
+Dexamethasone,C0728738,Acute fungal otitis externa
+Dexamethasone,C0027498,Nausea and vomiting
+Dexamethasone,C0079731,B-Cell Lymphomas
+Dexamethasone,C0027497,Nausea
+Dexamethasone,C0042963,Vomiting
+Dexamethasone,C0279002,"unspecified childhood solid tumor, protocol specific"
+Dexamethasone,C0278519,recurrent childhood acute lymphoblastic leukemia
+Dexamethasone,C0011608,Dermatitis Herpetiformis
+Dexamethasone,C0005743,Blepharoconjunctivitis
+Dexamethasone,C0010032,Corneal abrasion
+Dexamethasone,C0015230,Exanthema
+Dexamethasone,C0021390,Inflammatory Bowel Diseases
+Dexamethasone,C0151467,Addisonian crisis
+Dexamethasone,C0035439,Rheumatic Heart Disease
+Dexamethasone,C0039520,Tenosynovitis
+Dexamethasone,C0259799,Punctate keratitis
+Dexamethasone,C0014488,Epicondylitis
+Dexamethasone,C0026948,Mycosis Fungoides
+Dexamethasone,C0854211,Bacterial keratitis
+Dexamethasone,C0033775,Pruritus Ani
+Dexamethasone,C0024305,"Lymphoma, Non-Hodgkin"
+Dexamethasone,C2607914,Allergic rhinitis (disorder)
+Dexamethasone,C0002880,Autoimmune hemolytic anemia
+Dexamethasone,C0004096,Asthma
+Dexamethasone,C0406326,Scalp psoriasis
+Dexamethasone,C0149911,Humoral hypercalcemia of malignancy (disorder)
+Dexamethasone,C0349790,Exacerbation of asthma
+Dexamethasone,C0002994,Angioedema
+Dexamethasone,C2349261,Relapse multiple myeloma
+Dexamethasone,C0022073,Iridocyclitis
+Dexamethasone,C0423234,Punctate keratopathy
+Dexamethasone,C0405580,Adrenal cortical hypofunction
+Dexamethasone,C0022081,Iritis
+Dexamethasone,C0029878,Otitis Externa
+Dexamethasone,C0030807,Pemphigus
+Dexamethasone,C0042165,Anterior uveitis
+Dexamethasone,C0339498,Central retinal vein occlusion with macular edema
+Dexamethasone,C0006444,Bursitis
+Dexamethasone,C0395818,Malignant otitis externa due to Pseudomonas aeruginosa
+Dexamethasone,C0026769,Multiple Sclerosis
+Dexamethasone,C0079773,"Lymphoma, T-Cell, Cutaneous"
+Dexamethasone,C0022568,Keratitis
+Dexamethasone,C1320547,Allergic otitis externa
+Dexamethasone,C0339293,Corneal Perforation
+Dexamethasone,C0006413,Burkitt Lymphoma
+Dexamethasone,C0002875,Cooley's anemia
+Dexamethasone,C0242459,Simple Pulmonary Eosinophilia
+Dexamethasone,C0037011,Shoulder Pain
+Dexamethasone,C0035854,Rosacea
+Dexamethasone,C0149776,Shoulder Injuries
+Dexamethasone,C0079744,Diffuse Large B-Cell Lymphoma
+Dexamethasone,C0023449,Acute lymphocytic leukemia
+Dexamethasone,C0024141,"Lupus Erythematosus, Systemic"
+Dexamethasone,C0023890,Liver Cirrhosis
+Dexamethasone,C0026857,Musculoskeletal Diseases
+Dexamethasone,C1260899,"Anemia, Diamond-Blackfan"
+Dexamethasone,C0042164,Uveitis
+Dexamethasone,C0003868,"Arthritis, Gouty"
+Dexamethasone,C0027726,Nephrotic Syndrome
+Dexamethasone,C0003872,"Arthritis, Psoriatic"
+Dexamethasone,C0023052,Laryngeal Edema
+Diclofenac,C0022661,"Kidney Failure, Chronic"
+Diclofenac,C0003873,Rheumatoid Arthritis
+Diclofenac,C0038013,Ankylosing spondylitis
+Diclofenac,C0409959,"Osteoarthritis, Knee"
+Diclofenac,C0405473,Non-cyclical mastalgia
+Diclofenac,C0030193,Pain
+Diclofenac,C0013390,Dysmenorrhea
+Diclofenac,C0038048,Sprains and Strains
+Diclofenac,C0022602,Actinic keratosis
+Diclofenac,C0029408,Degenerative polyarthritis
+Doxorubicin,C0553580,Ewings sarcoma
+Doxorubicin,C0677886,Epithelial ovarian cancer
+Doxorubicin,C0036220,Kaposi Sarcoma
+Doxorubicin,C0278486,Breast cancer stage II
+Doxorubicin,C1880323,Diffuse Hyperplastic Perilobar Nephroblastomatosis
+Doxorubicin,C0876994,Cardiotoxicity
+Doxorubicin,C0280281,Regional Urothelial Carcinoma of the Renal Pelvis and Ureter
+Doxorubicin,C0015558,Fallopian Tube Neoplasms
+Doxorubicin,C0027819,Neuroblastoma
+Doxorubicin,C1629504,Atypical Burkitt's lymphoma
+Doxorubicin,C1140680,Malignant neoplasm of ovary
+Doxorubicin,C0279930,anterior urethral cancer
+Doxorubicin,C0280100,Solid tumour
+Doxorubicin,C0280240,Transitional cell cancer of the renal pelvis and ureter localised
+Doxorubicin,C0281479,Primary Systemic Amyloidosis
+Doxorubicin,C1332219,Adult Kidney Wilms Tumor
+Doxorubicin,C0278715,stage V Wilms' tumor
+Doxorubicin,C0278714,stage IV Wilms' tumor
+Doxorubicin,C0278713,stage III Wilms' tumor
+Doxorubicin,C0278712,stage II Wilms' tumor
+Doxorubicin,C1514429,Primary Peritoneal Serous Adenocarcinoma
+Doxorubicin,C0278711,stage I Wilms' tumor
+Doxorubicin,C0027627,Neoplasm Metastasis
+Doxorubicin,C0332890,Congenital hemihypertrophy
+Doxorubicin,C0004903,Beckwith-Wiedemann Syndrome
+Doxorubicin,C0919267,ovarian neoplasm
+Doxorubicin,C0022665,Kidney Neoplasm
+Doxorubicin,C0279931,posterior urethral cancer
+Doxorubicin,C1335177,Ovarian Serous Adenocarcinoma
+Doxorubicin,C1292753,Primary Effusion Lymphoma
+Doxorubicin,C0280100,Solid tumour
+Doxorubicin,C0023903,Liver neoplasms
+Doxorubicin,C3897731,Recurrent Primary Peritoneal Carcinoma
+Doxorubicin,C0279912,Recurrent Urethral Cancer
+Doxorubicin,C0677695,contiguous stage II adult diffuse large cell lymphoma
+Doxorubicin,C0677709,noncontiguous stage II adult diffuse large cell lymphoma
+Doxorubicin,C0153676,Secondary malignant neoplasm of lung
+Doxorubicin,C0919267,ovarian neoplasm
+Doxorubicin,C0278838,Prostate cancer recurrent
+Doxorubicin,C0279960,stage I adult diffuse large cell lymphoma
+Doxorubicin,C0280162,stage III adult diffuse large cell lymphoma
+Doxorubicin,C0280175,stage IV adult diffuse large cell lymphoma
+Doxorubicin,C0742558,colon cancer liver metastasis
+Doxorubicin,C0007097,Carcinoma
+Doxorubicin,C0029928,Ovarian Diseases
+Doxorubicin,C0023418,leukemia
+Doxorubicin,C3898877,Hormone-Resistant Prostate Cancer
+Doxorubicin,C0007115,Malignant neoplasm of thyroid
+Doxorubicin,C0919267,ovarian neoplasm
+Doxorubicin,C0349632,Splenic Marginal Zone B-Cell Lymphoma
+Doxorubicin,C0280162,stage III adult diffuse large cell lymphoma
+Doxorubicin,C0677709,noncontiguous stage II adult diffuse large cell lymphoma
+Doxorubicin,C0677695,contiguous stage II adult diffuse large cell lymphoma
+Doxorubicin,C3163805,Malignant epithelial neoplasm of female breast
+Doxorubicin,C0278488,Carcinoma breast stage IV
+Doxorubicin,C0349644,Malignant lymphoma of testis
+Doxorubicin,C0279960,stage I adult diffuse large cell lymphoma
+Doxorubicin,C0278498,Malignant neoplasm of stomach stage IV
+Doxorubicin,C0677709,noncontiguous stage II adult diffuse large cell lymphoma
+Doxorubicin,C0855139,Monocytoid B-cell lymphoma
+Doxorubicin,C0242647,Mucosa-Associated Lymphoid Tissue Lymphoma
+Doxorubicin,C0677695,contiguous stage II adult diffuse large cell lymphoma
+Doxorubicin,C0278663,stage III adult soft tissue sarcoma
+Doxorubicin,C0278662,stage II adult soft tissue sarcoma
+Doxorubicin,C0278661,stage I adult soft tissue sarcoma
+Doxorubicin,C0278665,recurrent adult soft tissue sarcoma
+Doxorubicin,C0278519,recurrent childhood acute lymphoblastic leukemia
+Doxorubicin,C0919267,ovarian neoplasm
+Doxorubicin,C0278663,stage III adult soft tissue sarcoma
+Doxorubicin,C0019829,Hodgkin Disease
+Doxorubicin,C0278601,Inflammatory Breast Carcinoma
+Doxorubicin,C0876994,Cardiotoxicity
+Doxorubicin,C0553580,Ewings sarcoma
+Doxorubicin,C0278824,Bladder cancer stage III
+Doxorubicin,C0919267,ovarian neoplasm
+Doxorubicin,C0279932,urethral carcinoma associated with invasive bladder cancer
+Doxorubicin,C0153619,Malignant neoplasm of ureter
+Doxorubicin,C0280175,stage IV adult diffuse large cell lymphoma
+Doxorubicin,C0026764,Multiple Myeloma
+Doxorubicin,C1333015,Childhood Kidney Wilms Tumor
+Doxorubicin,C0585442,Osteosarcoma of bone
+Doxorubicin,C0678222,Breast Carcinoma
+Doxorubicin,C0024305,"Lymphoma, Non-Hodgkin"
+Doxorubicin,C0027708,Nephroblastoma
+Doxorubicin,C0023467,"Leukemia, Myelocytic, Acute"
+Doxorubicin,C0919267,ovarian neoplasm
+Doxorubicin,C0024301,"Lymphoma, Follicular"
+Doxorubicin,C0334359,Papillary serous cystadenocarcinoma
+Doxorubicin,C0079744,Diffuse Large B-Cell Lymphoma
+Doxorubicin,C0796439,"soft tissue sarcoma, adult, stage IIC"
+Doxorubicin,C0149925,Small cell carcinoma of lung
+Doxorubicin,C0023449,Acute lymphocytic leukemia
+Doxorubicin,C0279771,"soft tissue sarcoma, adult, stage IVA"
+Doxorubicin,C0796438,"soft tissue sarcoma, adult, stage IIB"
+Doxorubicin,C0242379,Malignant neoplasm of lung
+Doxorubicin,C0278665,recurrent adult soft tissue sarcoma
+Doxorubicin,C0006413,Burkitt Lymphoma
+Doxorubicin,C0276535,AIDS with Kaposi's sarcoma
+Doxycycline,C0009402,Colorectal Carcinoma
+Doxycycline,C0041351,Tularemia
+Doxycycline,C0006277,Bronchitis
+Doxycycline,C0007947,Chancroids
+Doxycycline,C0275665,Gonorrhea of rectum
+Doxycycline,C0004771,Bartonella Infections
+Doxycycline,C0023860,Listeriosis
+Doxycycline,C0149966,Gonorrhea of pharynx
+Doxycycline,C0029291,Psittacosis
+Doxycycline,C0041473,"Typhus, Epidemic Louse-Borne"
+Doxycycline,C0008149,Chlamydia Infections
+Doxycycline,C0001144,Acne Vulgaris
+Doxycycline,C0037199,Sinusitis
+Doxycycline,C0035597,Rickettsialpox
+Doxycycline,C0031350,Pharyngitis
+Doxycycline,C0744451,GONOCOCCAL INFECTION DISSEMINATED
+Doxycycline,C0032302,Mycoplasma pneumonia
+Doxycycline,C0035021,Relapsing Fever
+Doxycycline,C0004626,"Pneumonia, Bacterial"
+Doxycycline,C1112709,non-gonococcal urethritis (NGU)
+Doxycycline,C0178299,Infection of skin AND/OR subcutaneous tissue
+Doxycycline,C0006060,Boutonneuse Fever
+Doxycycline,C0040592,Trachoma
+Doxycycline,C0003175,Anthrax disease
+Doxycycline,C0035585,Rickettsia Infections
+Doxycycline,C0155866,Inhalational anthrax
+Doxycycline,C0024286,Lymphogranuloma Venereum
+Doxycycline,C0340354,Q fever endocarditis
+Doxycycline,C1997322,Chlamydia trachomatis infection of genital structure
+Doxycycline,C0003177,Cutaneous anthrax
+Doxycycline,C0018081,Gonorrhea
+Doxycycline,C0034362,Q Fever
+Doxycycline,C0043388,Yaws
+Doxycycline,C0039128,Syphilis
+Doxycycline,C0275652,Acute gonococcal urethritis
+Doxycycline,C0153195,Acute gonococcal cervicitis
+Doxycycline,C0001261,Actinomycosis
+Doxycycline,C0041471,TYPHUS
+Doxycycline,C0018190,Granuloma Inguinale
+Doxycycline,C0036472,Scrub Typhus
+Doxycycline,C0006309,Brucellosis
+Doxycycline,C0153193,Acute gonococcal epididymo-orchitis
+Doxycycline,C0153196,Acute gonococcal endometritis
+Doxycycline,C0006181,Brill-Zinsser Disease
+Doxycycline,C0877438,Non-ischemic cardiomyopathy
+Doxycycline,C0152945,Gastrointestinal anthrax
+Doxycycline,C0035793,Rocky Mountain Spotted Fever
+Doxycycline,C0008354,Cholera
+Doxycycline,C0041472,Endemic Flea-Borne Typhus
+Estradiol,C0566951,Vaginal ulcer
+Estradiol,C0600142,Hot flushes
+Estradiol,C0278488,Carcinoma breast stage IV
+Estradiol,C0156393,Atrophy of vulva
+Estradiol,C0001144,Acne Vulgaris
+Estradiol,C0520577,Urethral atrophy
+Estradiol,C0221392,Atrophic Vaginitis
+Estradiol,C0271578,Female hypogonadism syndrome
+Estradiol,C0520676,Premenstrual Dysphoric Disorder
+Estradiol,C0936223,Metastatic Prostate Carcinoma
+Estradiol,C0021359,Infertility
+Estradiol,C0020538,Hypertensive disease
+Estradiol,C0241616,Atrophy of vagina
+Estradiol,C3163805,Malignant epithelial neoplasm of female breast
+Ethanol,C0549393,Alcohol problem
+Ethanol,C0678254,AOD misuse
+Ethanol,C0032968,Pregnancy in Adolescence
+Ethanol,C0030283,Pancreatic Cyst
+Fluorouracil,C0149978,Adenocarcinoma of rectum
+Fluorouracil,C3897517,Stage IVB Colon Cancer
+Fluorouracil,C0278553,Colon cancer recurrent
+Fluorouracil,C0278554,Recurrent Rectal Cancer
+Fluorouracil,C0494165,Secondary malignant neoplasm of liver
+Fluorouracil,C0278553,Colon cancer recurrent
+Fluorouracil,C0278554,Recurrent Rectal Cancer
+Fluorouracil,C0750952,Biliary Tract Cancer
+Fluorouracil,C0278562,Esophageal neoplasm metastatic
+Fluorouracil,C0279176,duct cell adenocarcinoma of the pancreas
+Fluorouracil,C0279640,signet ring adenocarcinoma of the colon
+Fluorouracil,C0278554,Recurrent Rectal Cancer
+Fluorouracil,C2981365,Stage IIIC Gastric Cancer
+Fluorouracil,C0278553,Colon cancer recurrent
+Fluorouracil,C0279652,mucinous adenocarcinoma of rectum
+Fluorouracil,C0279639,Mucinous adenocarcinoma of colon
+Fluorouracil,C0279626,Squamous cell carcinoma of esophagus
+Fluorouracil,C0278502,recurrent gastric cancer
+Fluorouracil,C0854761,Oesophageal carcinoma recurrent
+Fluorouracil,C0338106,Adenocarcinoma of colon
+Fluorouracil,C1167722,Pancreatic carcinoma stage III
+Fluorouracil,C0279635,diffuse adenocarcinoma of the stomach
+Fluorouracil,C0279652,mucinous adenocarcinoma of rectum
+Fluorouracil,C0278554,Recurrent Rectal Cancer
+Fluorouracil,C0278488,Carcinoma breast stage IV
+Fluorouracil,C0279654,signet ring adenocarcinoma of the rectum
+Fluorouracil,C3897537,Stage IIA Rectal Cancer
+Fluorouracil,C0022602,Actinic keratosis
+Fluorouracil,C0024623,Malignant neoplasm of stomach
+Fluorouracil,C1282500,Metastasis from malignant tumor of colon
+Fluorouracil,C0862889,Superficial basal cell carcinoma
+Fluorouracil,C3897536,Stage IIB Rectal Cancer
+Fluorouracil,C1167725,Stage IV Pancreatic Cancer
+Fluorouracil,C0007102,Malignant tumor of colon
+Fluorouracil,C2981374,Stage IIIC Esophageal Adenocarcinoma
+Fluorouracil,C3897535,Stage IIC Rectal Cancer
+Fluorouracil,C3897531,Stage IIIA Rectal Cancer
+Fluorouracil,C3897528,Stage IIIB Rectal Cancer
+Fluorouracil,C3897525,Stage IIIC Rectal Cancer
+Fluorouracil,C3897520,Stage IVA Rectal Cancer
+Fluorouracil,C3897513,Stage IVB Rectal Cancer
+Fluorouracil,C3897513,Stage IVB Rectal Cancer
+Fluorouracil,C0279638,mixed adenocarcinoma of the stomach
+Fluorouracil,C0281361,Adenocarcinoma of pancreas
+Fluorouracil,C0279633,intestinal adenocarcinoma of the stomach
+Fluorouracil,C0009404,Colorectal Neoplasms
+Fluorouracil,C1332166,Adenocarcinoma of the gastroesophageal junction
+Fluorouracil,C0149978,Adenocarcinoma of rectum
+Fluorouracil,C1336180,Stage IIB Esophageal Adenocarcinoma
+Fluorouracil,C0007137,Squamous cell carcinoma
+Fluorouracil,C3897513,Stage IVB Rectal Cancer
+Fluorouracil,C0338106,Adenocarcinoma of colon
+Fluorouracil,C2981372,Stage IIIA Esophageal Adenocarcinoma
+Fluorouracil,C0280100,Solid tumour
+Fluorouracil,C0014859,Esophageal Neoplasms
+Fluorouracil,C1336158,Stage IIA Esophageal Adenocarcinoma
+Fluorouracil,C3897082,Stage IVA Colon Cancer
+Fluorouracil,C0863191,Gastric carcinoma stage IV
+Fluorouracil,C2981371,Stage IB Esophageal Adenocarcinoma
+Fluorouracil,C0948380,Colorectal cancer metastatic
+Fluorouracil,C2981373,Stage IIIB Esophageal Adenocarcinoma
+Fluorouracil,C0001418,Adenocarcinoma
+Fluorouracil,C0001418,Adenocarcinoma
+Fluorouracil,C0494165,Secondary malignant neoplasm of liver
+Fluorouracil,C0014859,Esophageal Neoplasms
+Fluorouracil,C3897517,Stage IVB Colon Cancer
+Fluorouracil,C3897520,Stage IVA Rectal Cancer
+Fluorouracil,C0279628,Adenocarcinoma Of Esophagus
+Fluorouracil,C0948380,Colorectal cancer metastatic
+Fluorouracil,C0279654,signet ring adenocarcinoma of the rectum
+Fluorouracil,C0279654,signet ring adenocarcinoma of the rectum
+Fluorouracil,C0494165,Secondary malignant neoplasm of liver
+Fluorouracil,C0279640,signet ring adenocarcinoma of the colon
+Fluorouracil,C0278553,Colon cancer recurrent
+Fluorouracil,C0279639,Mucinous adenocarcinoma of colon
+Fluorouracil,C0278554,Recurrent Rectal Cancer
+Fluorouracil,C0009404,Colorectal Neoplasms
+Fluorouracil,C0278553,Colon cancer recurrent
+Fluorouracil,C3897520,Stage IVA Rectal Cancer
+Fluorouracil,C3897082,Stage IVA Colon Cancer
+Fluorouracil,C0279652,mucinous adenocarcinoma of rectum
+Fluorouracil,C0278554,Recurrent Rectal Cancer
+Fluorouracil,C0220647,Carcinoma of unknown primary
+Folic Acid,C0151482,Megaloblastic anemia due to folate deficiency
+Folic Acid,C0021368,Inflammation
+Folic Acid,C1510471,Vitamin Deficiency
+Folic Acid,C0242379,Malignant neoplasm of lung
+Folic Acid,C0524528,Pervasive Development Disorder
+Folic Acid,C0162316,Iron deficiency anemia
+Folic Acid,C0687148,Mineral deficiency
+Folic Acid,C1623040,Breastfeeding (mother)
+Folic Acid,C0494165,Secondary malignant neoplasm of liver
+Folic Acid,C0021359,Infertility
+Folic Acid,C0009402,Colorectal Carcinoma
+Folic Acid,C0494165,Secondary malignant neoplasm of liver
+Folic Acid,C0016412,Folic Acid Deficiency
+Formoterol,C0155880,Intrinsic asthma
+Formoterol,C0034067,Pulmonary Emphysema
+Formoterol,C0155877,Allergic asthma
+Formoterol,C0024117,Chronic Obstructive Airway Disease
+Gatifloxacin,C0856695,Acute exacerbation of chronic bronchitis
+Gatifloxacin,C0153195,Acute gonococcal cervicitis
+Gatifloxacin,C0276026,Haemophilus influenzae pneumonia
+Gatifloxacin,C0339959,Chlamydial pneumonia
+Gatifloxacin,C0032308,Staphylococcal Pneumonia
+Gatifloxacin,C0155862,Streptococcal pneumonia
+Gatifloxacin,C0577708,Escherichia coli urinary tract infection
+Gatifloxacin,C0857846,Legionella pneumophila pneumonia
+Gatifloxacin,C0009768,Bacterial conjunctivitis
+Gatifloxacin,C0857831,Moraxella catarrhalis pneumonia
+Gatifloxacin,C0275665,Gonorrhea of rectum
+Gatifloxacin,C0748196,PYELONEPHRITIS E COLI
+Gatifloxacin,C1318973,Staphylococcus aureus infection
+Gatifloxacin,C0004626,"Pneumonia, Bacterial"
+Gatifloxacin,C0275652,Acute gonococcal urethritis
+Gatifloxacin,C0520775,Klebsiella cystitis
+Gatifloxacin,C0032302,Mycoplasma pneumonia
+Gatifloxacin,C0577709,Proteus urinary tract infection
+Gatifloxacin,C0877633,Haemophilus parainfluenzae pneumonia
+Gefitinib,C0338106,Adenocarcinoma of colon
+Gefitinib,C1335703,Recurrent Head and Neck Carcinoma
+Gefitinib,C0280399,Laryngeal squamous cell carcinoma stage IV
+Gefitinib,C0280358,stage IV squamous cell carcinoma of the lip and oral cavity
+Gefitinib,C0242379,Malignant neoplasm of lung
+Gefitinib,C0007102,Malignant tumor of colon
+Gefitinib,C0017636,Glioblastoma
+Gefitinib,C0279640,signet ring adenocarcinoma of the colon
+Gefitinib,C0278554,Recurrent Rectal Cancer
+Gefitinib,C0278553,Colon cancer recurrent
+Gefitinib,C0279652,mucinous adenocarcinoma of rectum
+Gefitinib,C0279639,Mucinous adenocarcinoma of colon
+Gefitinib,C0149978,Adenocarcinoma of rectum
+Gefitinib,C0280374,stage IV squamous cell carcinoma of the oropharynx
+Gefitinib,C0279654,signet ring adenocarcinoma of the rectum
+Gefitinib,C0280391,Squamous cell carcinoma of the hypopharynx stage IV
+Gefitinib,C0744619,Head and neck cancer metastatic
+Gefitinib,C1960925,Epidermal growth factor receptor positive non-small cell lung cancer
+Gefitinib,C0280397,Laryngeal squamous cell carcinoma stage III
+Gefitinib,C0280353,stage III squamous cell carcinoma of the lip and oral cavity
+Gefitinib,C0280390,Squamous cell carcinoma of the hypopharynx stage III
+Gefitinib,C0280372,Oropharyngeal squamous cell carcinoma stage III
+Gefitinib,C0007131,Non-Small Cell Lung Carcinoma
+Hydrocortisone,C0014742,Erythema Multiforme
+Hydrocortisone,C0003868,"Arthritis, Gouty"
+Hydrocortisone,C1384589,Tinea cruris
+Hydrocortisone,C0849907,Itching of ear
+Hydrocortisone,C0033777,Pruritus of genital organs
+Hydrocortisone,C0003872,"Arthritis, Psoriatic"
+Hydrocortisone,C1275687,Herpes zoster keratitis
+Hydrocortisone,C0039103,Synovitis
+Hydrocortisone,C0151467,Addisonian crisis
+Hydrocortisone,C0023449,Acute lymphocytic leukemia
+Hydrocortisone,C0019112,Hemorrhoids
+Hydrocortisone,C0002994,Angioedema
+Hydrocortisone,C0024138,"Lupus Erythematosus, Discoid"
+Hydrocortisone,C0022568,Keratitis
+Hydrocortisone,C0405580,Adrenal cortical hypofunction
+Hydrocortisone,C0021390,Inflammatory Bowel Diseases
+Hydrocortisone,C0030807,Pemphigus
+Hydrocortisone,C0042164,Uveitis
+Hydrocortisone,C0011608,Dermatitis Herpetiformis
+Hydrocortisone,C0032310,"Pneumonia, Viral"
+Hydrocortisone,C0079773,"Lymphoma, T-Cell, Cutaneous"
+Hydrocortisone,C0040896,Trichinellosis
+Hydrocortisone,C0022081,Iritis
+Hydrocortisone,C0345468,Transplanted organ rejection
+Hydrocortisone,C0015230,Exanthema
+Hydrocortisone,C0729587,Infective blepharitis
+Hydrocortisone,C0022073,Iridocyclitis
+Hydrocortisone,C0406317,Chronic small plaque psoriasis
+Hydrocortisone,C0019829,Hodgkin Disease
+Hydrocortisone,C0085074,Granuloma Annulare
+Hydrocortisone,C0149911,Humoral hypercalcemia of malignancy (disorder)
+Hydrocortisone,C0010043,Corneal Ulcer
+Hydrocortisone,C0035854,Rosacea
+Hydrocortisone,C0021355,Infective otitis externa
+Hydrocortisone,C0038363,Aphthous Stomatitis
+Hydrocortisone,C0036508,Seborrheic dermatitis
+Hydrocortisone,C0009766,Allergic Conjunctivitis
+Hydrocortisone,C1260899,"Anemia, Diamond-Blackfan"
+Hydrocortisone,C0040252,Tinea corporis (disorder)
+Hydrocortisone,C0024305,"Lymphoma, Non-Hodgkin"
+Hydrocortisone,C0154301,Acquired thrombocytopenia
+Hydrocortisone,C0002875,Cooley's anemia
+Hydrocortisone,C0026769,Multiple Sclerosis
+Hydrocortisone,C0242459,Simple Pulmonary Eosinophilia
+Hydrocortisone,C0040147,Thyroiditis
+Hydrocortisone,C0033860,Psoriasis
+Hydrocortisone,C0395818,Malignant otitis externa due to Pseudomonas aeruginosa
+Hydrocortisone,C0011615,"Dermatitis, Atopic"
+Hydrocortisone,C1761609,Aspiration pneumonitis
+Hydrocortisone,C0701163,Adrenogenital disorder
+Hydrocortisone,C0006444,Bursitis
+Hydrocortisone,C0040259,Tinea Pedis
+Hydrocortisone,C0036830,Serum Sickness
+Hydrocortisone,C0004096,Asthma
+Hydrocortisone,C0011606,Exfoliative dermatitis
+Hydrocortisone,C2937222,Chronic ulcerative proctitis
+Hydrocortisone,C0003873,Rheumatoid Arthritis
+Hydrocortisone,C0009324,Ulcerative Colitis
+Hydrocortisone,C0039503,Tendinitis
+Hydrocortisone,C0002880,Autoimmune hemolytic anemia
+Hydrocortisone,C0027726,Nephrotic Syndrome
+Hydrocortisone,C2894027,Post traumatic osteoarthritis
+Hydrocortisone,C0023052,Laryngeal Edema
+Hydrocortisone,C0035439,Rheumatic Heart Disease
+Hydrocortisone,C0036202,Sarcoidosis
+Hydrocortisone,C0005138,Berylliosis
+Hydrocortisone,C0026857,Musculoskeletal Diseases
+Hydrocortisone,C0038013,Ankylosing spondylitis
+Hydrocortisone,C0423234,Punctate keratopathy
+Hydrocortisone,C0033775,Pruritus Ani
+Hydrocortisone,C0006114,Cerebral Edema
+Hydrocortisone,C0854211,Bacterial keratitis
+Hydrocortisone,C0005743,Blepharoconjunctivitis
+Hydrocortisone,C0023418,leukemia
+Hydrocortisone,C0017563,Gingival Diseases
+Hydrocortisone,C1274321,Recurrent herpes simplex labialis
+Hydrocortisone,C0015397,Disorder of eye
+Hydrocortisone,C0010032,Corneal abrasion
+Hydrocortisone,C0010543,Cyclitis
+Hydrocortisone,C0349231,Phobic anxiety disorder
+Hydrocortisone,C0029878,Otitis Externa
+Hydrocortisone,C0024141,"Lupus Erythematosus, Systemic"
+Hydrocortisone,C0149922,Lichen Simplex Chronicus
+Hydrocortisone,C0001403,Addison Disease
+Hydrocortisone,C0026948,Mycosis Fungoides
+Hydrocortisone,C3875321,Inflammatory dermatosis
+Hydrocortisone,C0406326,Scalp psoriasis
+Hydrocortisone,C0038218,Status Asthmaticus
+Hydrocortisone,C0011616,Contact Dermatitis
+Hydrocortisone,C0033246,Proctitis
+Hydrocortisone,C0039520,Tenosynovitis
+Hydrocortisone,C0004364,Autoimmune Diseases
+Hydrocortisone,C0001144,Acne Vulgaris
+Hydrocortisone,C0010346,Crohn Disease
+Hydrocortisone,C2607914,Allergic rhinitis (disorder)
+Hydroxyzine,C0033774,Pruritus
+Hydroxyzine,C2607914,Allergic rhinitis (disorder)
+Hydroxyzine,C1260880,Rhinorrhea
+Hydroxyzine,C0011615,"Dermatitis, Atopic"
+Hydroxyzine,C0042109,Urticaria
+Hydroxyzine,C0009766,Allergic Conjunctivitis
+Hydroxyzine,C0343065,Symptomatic dermographism
+Imatinib,C0346421,Chronic eosinophilic leukemia
+Imatinib,C0279543,Philadelphia chromosome positive chronic myelogenous leukemia
+Imatinib,C0206141,Idiopathic Hypereosinophilic Syndrome
+Imatinib,C0238198,Gastrointestinal Stromal Tumors
+Imatinib,C0023474,"Leukemia, Myeloid, Chronic-Phase"
+Imatinib,C0005699,Blast Phase
+Imatinib,C0023418,leukemia
+Imatinib,C0221013,"Mastocytosis, Systemic"
+Imatinib,C0278785,recurrent adult acute lymphoblastic leukemia
+Imatinib,C0278787,chronic myelogenous leukemia in relapse
+Imatinib,C0023418,leukemia
+Imatinib,C0023472,"Leukemia, Myeloid, Accelerated Phase"
+Imatinib,C1960397,Philadelphia chromosome-positive acute lymphoblastic leukemia
+Imatinib,C0278883,Metastatic melanoma
+Imatinib,C0023418,leukemia
+Imatinib,C1292778,Chronic myeloproliferative disorder
+Imatinib,C0751690,Malignant Peripheral Nerve Sheath Tumor
+Imatinib,C0011644,Scleroderma
+Imatinib,C0023418,leukemia
+Imatinib,C0020542,Pulmonary Hypertension
+Imatinib,C0020542,Pulmonary Hypertension
+Imatinib,C0600518,Choroidal Neovascularization
+Imatinib,C0271066,Choroidal retinal neovascularization
+Imatinib,C0392784,Dermatofibrosarcoma Protuberans
+Imatinib,C0280100,Solid tumour
+Imatinib,C0023418,leukemia
+Isotretinoin,C0020538,Hypertensive disease
+Isotretinoin,C0027819,Neuroblastoma
+Isotretinoin,C0027819,Neuroblastoma
+Isotretinoin,C0027819,Neuroblastoma
+Isotretinoin,C0079772,T-Cell Lymphoma
+Isotretinoin,C0338341,untreated childhood medulloblastoma
+Isotretinoin,C0338333,untreated childhood supratentorial primitive neuroectodermal tumors
+Isotretinoin,C0376545,Hematologic Neoplasms
+Isotretinoin,C0026948,Mycosis Fungoides
+Letrozole,C0495144,"Medical abortion, complete or unspecified, without complication"
+Letrozole,C1699634,HER-2 positive breast cancer
+Letrozole,C0027627,Neoplasm Metastasis
+Letrozole,C3897731,Recurrent Primary Peritoneal Carcinoma
+Letrozole,C0278486,Breast cancer stage II
+Letrozole,C1514429,Primary Peritoneal Serous Adenocarcinoma
+Letrozole,C1335177,Ovarian Serous Adenocarcinoma
+Letrozole,C0027627,Neoplasm Metastasis
+Letrozole,C2938924,Oestrogen receptor positive breast cancer
+Letrozole,C1449718,Endocrine Breast Diseases
+Letrozole,C0027661,"Neoplasms, Hormone-Dependent"
+Letrozole,C0334359,Papillary serous cystadenocarcinoma
+Levofloxacin,C0339932,Acute Moraxella catarrhalis bronchitis
+Levofloxacin,C0577709,Proteus urinary tract infection
+Levofloxacin,C1318973,Staphylococcus aureus infection
+Levofloxacin,C0577708,Escherichia coli urinary tract infection
+Levofloxacin,C0024305,"Lymphoma, Non-Hodgkin"
+Levofloxacin,C0343402,Bacterial infection due to Klebsiella pneumoniae
+Levofloxacin,C0877633,Haemophilus parainfluenzae pneumonia
+Levofloxacin,C0032308,Staphylococcal Pneumonia
+Levofloxacin,C0155804,Acute maxillary sinusitis
+Levofloxacin,C0857831,Moraxella catarrhalis pneumonia
+Levofloxacin,C0276026,Haemophilus influenzae pneumonia
+Levofloxacin,C0856695,Acute exacerbation of chronic bronchitis
+Levofloxacin,C0034186,Pyelonephritis
+Levofloxacin,C0004626,"Pneumonia, Bacterial"
+Levofloxacin,C0857825,Infection in solid organ transplant recipients
+Levofloxacin,C0009768,Bacterial conjunctivitis
+Levofloxacin,C0554628,Streptococcus pyogenes infection
+Levofloxacin,C0032302,Mycoplasma pneumonia
+Levofloxacin,C0748196,PYELONEPHRITIS E COLI
+Levofloxacin,C0857846,Legionella pneumophila pneumonia
+Levofloxacin,C0520775,Klebsiella cystitis
+Levofloxacin,C0155862,Streptococcal pneumonia
+Levofloxacin,C0178299,Infection of skin AND/OR subcutaneous tissue
+Levofloxacin,C0749958,URINARY TRACT INFECTION ENTEROCOCCUS
+Levofloxacin,C0339959,Chlamydial pneumonia
+Levofloxacin,C0729524,Bacterial urinary infection
+Levofloxacin,C0003175,Anthrax disease
+Levofloxacin,C1609538,Latent Tuberculosis
+Mesalazine,C0033246,Proctitis
+Mesalazine,C0012813,Diverticulitis
+Mesalazine,C0267390,Chronic ulcerative rectosigmoiditis
+Mesalazine,C2937222,Chronic ulcerative proctitis
+Mesalazine,C0009324,Ulcerative Colitis
+Mesalazine,C3697010,Ulcerative colitis in remission
+Mesalazine,C0012813,Diverticulitis
+Metformin,C0279975,recurrent ovarian germ cell tumor
+Metformin,C2981676,Stage IIA Pancreatic Cancer
+Metformin,C2981674,Stage IA Pancreatic Cancer
+Metformin,C0009402,Colorectal Carcinoma
+Metformin,C0007137,Squamous cell carcinoma
+Metformin,C0278689,Ovarian epithelial cancer recurrent
+Metformin,C2981677,Stage IIB Pancreatic Cancer
+Metformin,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent"
+Metformin,C0600139,Prostate carcinoma
+Metformin,C0279663,Serous cystadenocarcinoma ovary
+Metformin,C2981675,Stage IB Pancreatic Cancer
+Metformin,C0032460,Polycystic Ovary Syndrome
+Methotrexate,C0278824,Bladder cancer stage III
+Methotrexate,C0280240,Transitional cell cancer of the renal pelvis and ureter localised
+Methotrexate,C0279912,Recurrent Urethral Cancer
+Methotrexate,C0242379,Malignant neoplasm of lung
+Methotrexate,C0023449,Acute lymphocytic leukemia
+Methotrexate,C0948840,Meningeal Leukemia
+Methotrexate,C0024305,"Lymphoma, Non-Hodgkin"
+Methotrexate,C0153619,Malignant neoplasm of ureter
+Methotrexate,C0026948,Mycosis Fungoides
+Methotrexate,C1135868,Gestational Trophoblastic Neoplasms
+Methotrexate,C0280281,Regional Urothelial Carcinoma of the Renal Pelvis and Ureter
+Methotrexate,C0278996,Cancer of Head and Neck
+Methotrexate,C0033860,Psoriasis
+Methotrexate,C0279930,anterior urethral cancer
+Methotrexate,C0006413,Burkitt Lymphoma
+Methotrexate,C0003873,Rheumatoid Arthritis
+Methotrexate,C0023418,leukemia
+Methotrexate,C0585442,Osteosarcoma of bone
+Methotrexate,C0279931,posterior urethral cancer
+Methotrexate,C3163805,Malignant epithelial neoplasm of female breast
+Methotrexate,C0279932,urethral carcinoma associated with invasive bladder cancer
+Methotrexate,C0018784,Sensorineural Hearing Loss (disorder)
+Methotrexate,C0021368,Inflammation
+Methotrexate,C0023418,leukemia
+Methotrexate,C0242596,"Neoplasm, Residual"
+Methotrexate,C1140680,Malignant neoplasm of ovary
+Methotrexate,C0023418,leukemia
+Methotrexate,C1629504,Atypical Burkitt's lymphoma
+Methotrexate,C0042109,Urticaria
+Methotrexate,C0935657,cognitive/functional effects
+Methotrexate,C0023452,"Leukemia, Lymphocytic, Acute, L1"
+Methylphenidate,C0149654,Conduct Disorder
+Methylphenidate,C0027404,Narcolepsy
+Methylphenidate,C1263846,Attention deficit hyperactivity disorder
+Methylphenidate,C0876926,Traumatic Brain Injury
+Methylphenidate,C1377665,"central nervous system tumor, pediatric"
+Methylphenidate,C0004093,Asthenia
+Methylphenidate,C0935657,cognitive/functional effects
+Methylphenidate,C0011581,Depressive disorder
+Methylphenidate,C0011581,Depressive disorder
+Methylphenidate,C0235032,Neurotoxicity Syndromes
+Methylphenidate,C0279002,"unspecified childhood solid tumor, protocol specific"
+Metoprolol,C0264716,Chronic heart failure
+Metoprolol,C0002962,Angina Pectoris
+Metoprolol,C0948089,Acute Coronary Syndrome
+Metoprolol,C0020538,Hypertensive disease
+Metoprolol,C0027051,Myocardial Infarction
+Metoprolol,C0042510,Ventricular Fibrillation
+Metoprolol,C0085298,Sudden Cardiac Death
+Metoprolol,C0018790,Cardiac Arrest
+Metoprolol,C0028754,Obesity
+Mycophenolic acid,C0278805,Small Intestinal Lymphoma
+Mycophenolic acid,C0349632,Splenic Marginal Zone B-Cell Lymphoma
+Mycophenolic acid,C0279780,Hairy cell leukaemia recurrent
+Mycophenolic acid,C0278787,chronic myelogenous leukemia in relapse
+Mycophenolic acid,C0280449,secondary acute myeloid leukemia
+Mycophenolic acid,C0862200,Mycosis fungoides/Sezary syndrome recurrent
+Mycophenolic acid,C0278791,Chronic lymphocytic leukaemia refractory
+Mycophenolic acid,C0855096,B-cell small lymphocytic lymphoma recurrent
+Mycophenolic acid,C0280745,secondary myelodysplastic syndromes
+Mycophenolic acid,C0024143,Lupus Nephritis
+Mycophenolic acid,C0677725,Mantle cell lymphoma recurrent
+Mycophenolic acid,C0278780,recurrent adult acute myeloid leukemia
+Mycophenolic acid,C0280192,recurrent adult Burkitt's lymphoma
+Mycophenolic acid,C0280188,recurrent adult diffuse large cell lymphoma
+Mycophenolic acid,C0280187,recurrent adult diffuse mixed cell lymphoma
+Mycophenolic acid,C0280186,recurrent adult diffuse small cleaved cell lymphoma
+Mycophenolic acid,C1541469,recurrent adult grade III lymphomatoid granulomatosis
+Mycophenolic acid,C1541273,Marginal zone lymphoma recurrent
+Mycophenolic acid,C0278530,recurrent adult Hodgkin's lymphoma
+Mycophenolic acid,C0280191,recurrent adult lymphoblastic lymphoma
+Mycophenolic acid,C0280427,Adult T-cell lymphoma/leukaemia recurrent
+Mycophenolic acid,C0278580,Cutaneous T-cell lymphoma recurrent
+Mycophenolic acid,C0280182,recurrent grade 1 follicular lymphoma
+Mycophenolic acid,C0280183,recurrent grade 2 follicular lymphoma
+Mycophenolic acid,C0280185,recurrent grade 3 follicular lymphoma
+Mycophenolic acid,C0280190,recurrent adult immunoblastic large cell lymphoma
+Mycophenolic acid,C1955861,T-Cell Large Granular Lymphocyte Leukemia
+Mycophenolic acid,C0206180,Ki-1+ Anaplastic Large Cell Lymphoma
+Mycophenolic acid,C1332153,Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome
+Mycophenolic acid,C0023418,leukemia
+Mycophenolic acid,C0940823,Evidence of liver transplantation
+Mycophenolic acid,C0242006,Myelofibrosis due to another disorder
+Mycophenolic acid,C0023418,leukemia
+Mycophenolic acid,C0024143,Lupus Nephritis
+Mycophenolic acid,C0282488,Interstitial Cystitis
+Mycophenolic acid,C1720830,Painful Bladder Syndrome
+Mycophenolic acid,C0024141,"Lupus Erythematosus, Systemic"
+Mycophenolic acid,C0024143,Lupus Nephritis
+Mycophenolic acid,C0023470,Myeloid Leukemia
+Mycophenolic acid,C0023418,leukemia
+Mycophenolic acid,C0432487,Post-transplant lymphoproliferative disorder
+Mycophenolic acid,C0079774,Peripheral T-Cell Lymphoma
+Mycophenolic acid,C0349644,Malignant lymphoma of testis
+Mycophenolic acid,C0855139,Monocytoid B-cell lymphoma
+Mycophenolic acid,C1333984,Hepatosplenic T-cell lymphoma
+Mycophenolic acid,C0242647,Mucosa-Associated Lymphoid Tissue Lymphoma
+Mycophenolic acid,C0280451,de novo myelodysplastic syndromes
+Mycophenolic acid,C1511566,Cutaneous B-Cell Non-Hodgkin Lymphoma
+Mycophenolic acid,C0020981,Angioimmunoblastic Lymphadenopathy
+Mycophenolic acid,C0278785,recurrent adult acute lymphoblastic leukemia
+Mycophenolic acid,C1879279,adult nasal type extranodal NK/T-cell lymphoma
+Mycophenolic acid,C1541332,adult acute myeloid leukemia with t(16;16)(p13;q22)
+Mycophenolic acid,C1541335,adult acute myeloid leukemia with t(15;17)(q22;q12)
+Mycophenolic acid,C1541333,adult acute myeloid leukemia with inv(16)(p13;q22)
+Mycophenolic acid,C1541334,adult acute myeloid leukemia with 11q23 (MLL) abnormalities
+Mycophenolic acid,C0279094,adult acute myeloid leukemia in remission
+Mycophenolic acid,C0279095,adult acute lymphoblastic leukemia in remission
+Mycophenolic acid,C1328061,"Myelodysplastic/myeloproliferative neoplasm, unclassifiable"
+Mycophenolic acid,C0280744,previously treated myelodysplastic syndromes
+Mycophenolic acid,C1541331,adult acute myeloid leukemia with t(8;21)(q22;q22)
+Mycophenolic acid,C0019829,Hodgkin Disease
+Mycophenolic acid,C0023418,leukemia
+Mycophenolic acid,C0024143,Lupus Nephritis
+Mycophenolic acid,C0024143,Lupus Nephritis
+Mycophenolic acid,C0024143,Lupus Nephritis
+Mycophenolic acid,C0023418,leukemia
+Mycophenolic acid,C0027022,Myeloproliferative disease
+Nicotine,C0520909,Postoperative Nausea and Vomiting
+Nicotine,C0030783,Pellagra
+Nicotine,C0242379,Malignant neoplasm of lung
+Nicotine,C0040332,Tobacco Dependence
+Nicotine,C0028043,Nicotine Dependence
+Nilotinib,C0279543,Philadelphia chromosome positive chronic myelogenous leukemia
+Nilotinib,C0023474,"Leukemia, Myeloid, Chronic-Phase"
+Nilotinib,C0023472,"Leukemia, Myeloid, Accelerated Phase"
+Nitric Oxide,C0343401,MRSA - Methicillin resistant Staphylococcus aureus infection
+Nitric Oxide,C0006287,Bronchopulmonary Dysplasia
+Nitric Oxide,C0042344,Varicose Ulcer
+Nitric Oxide,C0020542,Pulmonary Hypertension
+Nitric Oxide,C0031190,Persistent Fetal Circulation Syndrome
+Nitric Oxide,C0035126,Reperfusion Injury
+Nitric Oxide,C0263560,Chronic ulcer of lower extremity
+Nitric Oxide,C0001127,"Acidosis, Respiratory"
+Nitric Oxide,C0700292,Hypoxemia
+Nitric Oxide,C0003129,Anoxemia
+Nitric Oxide,C0032285,Pneumonia
+Nitric Oxide,C0021296,"Infant, Small for Gestational Age"
+Paclitaxel,C0007137,Squamous cell carcinoma
+Paclitaxel,C0238461,Anaplastic thyroid carcinoma
+Paclitaxel,C0028840,Ocular Hypertension
+Paclitaxel,C0278983,Non-small cell lung cancer stage IIIA
+Paclitaxel,C1140680,Malignant neoplasm of ovary
+Paclitaxel,C0278488,Carcinoma breast stage IV
+Paclitaxel,C0017612,"Glaucoma, Open-Angle"
+Paclitaxel,C0334359,Papillary serous cystadenocarcinoma
+Paclitaxel,C0036220,Kaposi Sarcoma
+Paclitaxel,C0278505,Non-small cell lung cancer stage II
+Paclitaxel,C1332166,Adenocarcinoma of the gastroesophageal junction
+Paclitaxel,C1514429,Primary Peritoneal Serous Adenocarcinoma
+Paclitaxel,C0345958,Large cell carcinoma of lung
+Paclitaxel,C0242379,Malignant neoplasm of lung
+Paclitaxel,C0152013,Adenocarcinoma of lung (disorder)
+Paclitaxel,C0007131,Non-Small Cell Lung Carcinoma
+Paclitaxel,C0015558,Fallopian Tube Neoplasms
+Paclitaxel,C1335177,Ovarian Serous Adenocarcinoma
+Paclitaxel,C3897731,Recurrent Primary Peritoneal Carcinoma
+Paclitaxel,C0242379,Malignant neoplasm of lung
+Paclitaxel,C1336708,Testicular Germ Cell Tumor
+Paclitaxel,C2981373,Stage IIIB Esophageal Adenocarcinoma
+Paclitaxel,C0876994,Cardiotoxicity
+Paclitaxel,C0278601,Inflammatory Breast Carcinoma
+Paclitaxel,C0027627,Neoplasm Metastasis
+Paclitaxel,C0220648,Renal Pelvis and Ureter Urothelial Carcinoma
+Paclitaxel,C0700101,Urethral Carcinoma
+Paclitaxel,C2981372,Stage IIIA Esophageal Adenocarcinoma
+Paclitaxel,C1336180,Stage IIB Esophageal Adenocarcinoma
+Paclitaxel,C0278984,Non-small cell lung cancer stage IIIB
+Paclitaxel,C0278987,Non-small cell lung cancer metastatic
+Paclitaxel,C1336158,Stage IIA Esophageal Adenocarcinoma
+Paclitaxel,C0242379,Malignant neoplasm of lung
+Paclitaxel,C0280100,Solid tumour
+Paclitaxel,C0278883,Metastatic melanoma
+Paclitaxel,C0279628,Adenocarcinoma Of Esophagus
+Paclitaxel,C1167725,Stage IV Pancreatic Cancer
+Paclitaxel,C0919267,ovarian neoplasm
+Paclitaxel,C1167722,Pancreatic carcinoma stage III
+Paclitaxel,C1335302,Pancreatic Ductal Adenocarcinoma
+Paclitaxel,C0278486,Breast cancer stage II
+Paclitaxel,C0346976,Secondary malignant neoplasm of pancreas
+Paclitaxel,C0678222,Breast Carcinoma
+Paclitaxel,C0262963,extragonadal germ cell tumor
+Paclitaxel,C0020538,Hypertensive disease
+Paclitaxel,C0087135,Unknown Primary Tumors
+Paclitaxel,C0279004,"unspecified adult solid tumor, protocol specific"
+Paclitaxel,C0279663,Serous cystadenocarcinoma ovary
+Paclitaxel,C0919267,ovarian neoplasm
+Paclitaxel,C0015558,Fallopian Tube Neoplasms
+Paclitaxel,C0279004,"unspecified adult solid tumor, protocol specific"
+Paclitaxel,C0030193,Pain
+Paclitaxel,C1514428,Primary peritoneal carcinoma
+Paclitaxel,C0278493,Breast cancer recurrent
+Paclitaxel,C0278987,Non-small cell lung cancer metastatic
+Paclitaxel,C0278517,Non-small cell lung cancer recurrent
+Paclitaxel,C2981374,Stage IIIC Esophageal Adenocarcinoma
+Paclitaxel,C0280100,Solid tumour
+Paclitaxel,C0553723,Squamous cell carcinoma of skin
+Paclitaxel,C0279176,duct cell adenocarcinoma of the pancreas
+Paclitaxel,C0151779,Cutaneous Melanoma
+Paclitaxel,C0919267,ovarian neoplasm
+Paclitaxel,C0677886,Epithelial ovarian cancer
+Paclitaxel,C0854777,Pancreatic carcinoma recurrent
+Paclitaxel,C0279975,recurrent ovarian germ cell tumor
+Paclitaxel,C1167722,Pancreatic carcinoma stage III
+Paclitaxel,C1257930,"Mammary Carcinoma, Human"
+Paclitaxel,C1167725,Stage IV Pancreatic Cancer
+Paclitaxel,C2981371,Stage IB Esophageal Adenocarcinoma
+Paclitaxel,C0278689,Ovarian epithelial cancer recurrent
+Paclitaxel,C0919267,ovarian neoplasm
+Phenol,C0152030,Skin irritation
+Phenol,C0235339,Mouth irritation
+Phenol,C0033774,Pruritus
+Pioglitazone,C0002736,Amyotrophic Lateral Sclerosis
+Pioglitazone,C0027412,Opioid-Related Disorders
+Pioglitazone,C1136321,HIV-Associated Lipodystrophy Syndrome
+Pioglitazone,C0014175,Endometriosis
+Pioglitazone,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent"
+Propofol,C0876926,Traumatic Brain Injury
+Propofol,C0023418,leukemia
+Propofol,C0020538,Hypertensive disease
+Ribavirin,C0524910,"Hepatitis C, Chronic"
+Ribavirin,C0019196,Hepatitis C
+Ribavirin,C0035235,Respiratory Syncytial Virus Infections
+Sevoflurane,C0270611,Brain Injuries
+Sirolimus,C0278884,Melanoma recurrent
+Sirolimus,C0026769,Multiple Sclerosis
+Sirolimus,C3898222,Mucosal Melanoma
+Sirolimus,C0278787,chronic myelogenous leukemia in relapse
+Sirolimus,C0278882,malignant melanoma of skin stage III
+Sirolimus,C0007137,Squamous cell carcinoma
+Sirolimus,C0279004,"unspecified adult solid tumor, protocol specific"
+Sirolimus,C0023418,leukemia
+Sirolimus,C0022680,Polycystic Kidney Diseases
+Sirolimus,C1328504,Hormone refractory prostate cancer
+Sirolimus,C0278884,Melanoma recurrent
+Sirolimus,C0349604,Intracranial Meningioma
+Sirolimus,C0003873,Rheumatoid Arthritis
+Sirolimus,C0279004,"unspecified adult solid tumor, protocol specific"
+Sirolimus,C0278530,recurrent adult Hodgkin's lymphoma
+Sirolimus,C0278517,Non-small cell lung cancer recurrent
+Sirolimus,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+Sirolimus,C0279697,squamous cell carcinoma of salivary gland
+Sirolimus,C0007131,Non-Small Cell Lung Carcinoma
+Sirolimus,C0686586,Acute leukemia in remission
+Sirolimus,C0349649,Pulmonary lymphangioleiomyomatosis
+Sirolimus,C0877373,Advanced cancer
+Sirolimus,C0278883,Metastatic melanoma
+Sirolimus,C0280365,Verrucous carcinoma of the oral cavity recurrent
+Sirolimus,C0007134,Renal Cell Carcinoma
+Sirolimus,C0280419,recurrent squamous cell carcinoma of the paranasal sinus and nasal cavity
+Sirolimus,C0242379,Malignant neoplasm of lung
+Sirolimus,C0280376,Oropharyngeal squamous cell carcinoma recurrent
+Sirolimus,C0027627,Neoplasm Metastasis
+Sirolimus,C0278993,Recurrent Salivary Gland Cancer
+Sirolimus,C0376358,Malignant neoplasm of prostate
+Sirolimus,C0280363,recurrent squamous cell carcinoma of the lip and oral cavity
+Sirolimus,C0280401,Laryngeal squamous cell carcinoma recurrent
+Sirolimus,C0280392,Squamous cell carcinoma of the hypopharynx recurrent
+Sirolimus,C0279100,recurrent metastatic squamous neck cancer with occult primary
+Sirolimus,C0279002,"unspecified childhood solid tumor, protocol specific"
+Sirolimus,C0278517,Non-small cell lung cancer recurrent
+Sirolimus,C0278983,Non-small cell lung cancer stage IIIA
+Sirolimus,C0280188,recurrent adult diffuse large cell lymphoma
+Sirolimus,C0341106,Eosinophilic esophagitis
+Sirolimus,C1262481,Eosinophilic gastroenteritis
+Sirolimus,C1449718,Endocrine Breast Diseases
+Sirolimus,C0278791,Chronic lymphocytic leukaemia refractory
+Sirolimus,C0027819,Neuroblastoma
+Sirolimus,C0027627,Neoplasm Metastasis
+Sirolimus,C0677866,Brain Stem Neoplasms
+Sirolimus,C0279661,Acinar cell carcinoma of pancreas
+Sirolimus,C0026764,Multiple Myeloma
+Sirolimus,C0030807,Pemphigus
+Sirolimus,C0278987,Non-small cell lung cancer metastatic
+Sirolimus,C0018133,Graft-vs-Host Disease
+Sirolimus,C0279004,"unspecified adult solid tumor, protocol specific"
+Sirolimus,C1167725,Stage IV Pancreatic Cancer
+Sirolimus,C0854777,Pancreatic carcinoma recurrent
+Sirolimus,C2938989,Hepatitis C recurrent
+Sirolimus,C0279176,duct cell adenocarcinoma of the pancreas
+Sirolimus,C0023903,Liver neoplasms
+Sirolimus,C0280402,Laryngeal verrucous carcinoma recurrent
+Sorafenib,C0279702,Conventional (Clear Cell) Renal Cell Carcinoma
+Sorafenib,C0007134,Renal Cell Carcinoma
+Sorafenib,C0242379,Malignant neoplasm of lung
+Sorafenib,C0007131,Non-Small Cell Lung Carcinoma
+Sorafenib,C3163939,Malignant epithelial neoplasm of thyroid
+Sorafenib,C0278861,Recurrent Thyroid Carcinoma
+Sorafenib,C0009404,Colorectal Neoplasms
+Sorafenib,C0238461,Anaplastic thyroid carcinoma
+Sorafenib,C0278851,Metastatic papillary thyroid carcinoma
+Sorafenib,C0278854,stage IV follicular thyroid cancer
+Sorafenib,C1112459,Liver cell carcinoma non-resectable
+Sorafenib,C0861876,Hepatoma recurrent
+Sorafenib,C0027652,Neoplasms by Histologic Type
+Sorafenib,C0007097,Carcinoma
+Sorafenib,C0279004,"unspecified adult solid tumor, protocol specific"
+Sorafenib,C0001418,Adenocarcinoma
+Sorafenib,C0027660,"Neoplasms, Glandular and Epithelial"
+Sorafenib,C0023903,Liver neoplasms
+Sorafenib,C0279178,stage III follicular thyroid cancer
+Sorafenib,C0278882,malignant melanoma of skin stage III
+Sorafenib,C0278884,Melanoma recurrent
+Sorafenib,C0238462,Medullary carcinoma of thyroid
+Sorafenib,C0279179,stage III papillary thyroid cancer
+Sorafenib,C0242379,Malignant neoplasm of lung
+Sorafenib,C0279702,Conventional (Clear Cell) Renal Cell Carcinoma
+Sorafenib,C2239176,Liver carcinoma
+Sorafenib,C0238461,Anaplastic thyroid carcinoma
+Sorafenib,C1134506,insular thyroid cancer
+Sorafenib,C0278861,Recurrent Thyroid Carcinoma
+Temozolomide,C0151779,Cutaneous Melanoma
+Temozolomide,C0278517,Non-small cell lung cancer recurrent
+Temozolomide,C0278987,Non-small cell lung cancer metastatic
+Temozolomide,C0006111,Brain Diseases
+Temozolomide,C0017636,Glioblastoma
+Temozolomide,C0242379,Malignant neoplasm of lung
+Temozolomide,C0334579,Anaplastic astrocytoma
+Temozolomide,C0004114,Astrocytoma
+Temozolomide,C0280793,Mixed Oligodendroglioma-Astrocytoma
+Temozolomide,C0220650,Metastatic malignant neoplasm to brain
+Temozolomide,C0349543,Glioblastoma multiforme of brain
+Temozolomide,C0206726,gliosarcoma
+Temozolomide,C0553580,Ewings sarcoma
+Temozolomide,C0007682,CNS disorder
+Temozolomide,C0025202,melanoma
+Temozolomide,C0555198,Malignant Glioma
+Temozolomide,C0151779,Cutaneous Melanoma
+Temozolomide,C0278884,Melanoma recurrent
+Temozolomide,C0017636,Glioblastoma
+Temozolomide,C0027819,Neuroblastoma
+Temozolomide,C0022665,Kidney Neoplasm
+Temozolomide,C0280100,Solid tumour
+Temozolomide,C0027819,Neuroblastoma
+Temozolomide,C0006111,Brain Diseases
+Temozolomide,C0017636,Glioblastoma
+Temozolomide,C0280793,Mixed Oligodendroglioma-Astrocytoma
+Temozolomide,C0017636,Glioblastoma
+Temozolomide,C0206704,"Carcinoma, Large Cell"
+Temozolomide,C0001418,Adenocarcinoma
+Temozolomide,C0007682,CNS disorder
+Testosterone,C0151721,Testicular hypogonadism
+Testosterone,C0342527,Deficiency of testosterone biosynthesis
+Testosterone,C0020538,Hypertensive disease
+Testosterone,C1562029,Hormone receptor positive malignant neoplasm of breast
+Testosterone,C0034012,Delayed Puberty
+Testosterone,C0022735,Klinefelter Syndrome
+Testosterone,C0600142,Hot flushes
+Testosterone,C0010417,Cryptorchidism
+Testosterone,C0599750,hormone deficiency
+Testosterone,C0020619,Hypogonadism
+Testosterone,C0271623,Hypogonadotropic hypogonadism
+Testosterone,C0948896,Primary hypogonadism
+Testosterone,C0020619,Hypogonadism
+Testosterone,C0026769,Multiple Sclerosis
+Testosterone,C0020635,Hypopituitarism
+Trastuzumab,C0686068,Secondary malignant neoplasm of stomach
+Trastuzumab,C0346993,Secondary malignant neoplasm of female breast
+Trastuzumab,C0024623,Malignant neoplasm of stomach
+Trastuzumab,C0751571,Cancer of Urinary Tract
+Trastuzumab,C0242379,Malignant neoplasm of lung
+Trastuzumab,C1699634,HER-2 positive breast cancer
+Trastuzumab,C3495917,Advanced breast cancer
+Trastuzumab,C0935657,cognitive/functional effects
+Trastuzumab,C0027627,Neoplasm Metastasis
+Trastuzumab,C0278493,Breast cancer recurrent
+Trastuzumab,C1960398,HER2-positive carcinoma of breast
+Trastuzumab,C0278493,Breast cancer recurrent
+Trastuzumab,C0278601,Inflammatory Breast Carcinoma
+Trastuzumab,C0876994,Cardiotoxicity
+Trastuzumab,C0278493,Breast cancer recurrent
+Tretinoin,C0001144,Acne Vulgaris
+Tretinoin,C0027819,Neuroblastoma
+Tretinoin,C0025218,Chloasma
+Tretinoin,C0023467,"Leukemia, Myelocytic, Acute"
+Tretinoin,C0024137,"Lupus Erythematosus, Cutaneous"
+Tretinoin,C0036651,Senile lentigo
+Tretinoin,C0870082,Hyperkeratosis
+Tretinoin,C0023487,Acute Promyelocytic Leukemia

@@ -1,0 +1,111 @@
+Up reg Drug	Score
+2,3,7,8-tetrachlorodibenzo-p-dioxin (tcdd)	63219.572296
+Cadmium	16259.382239999999
+Phenol	12462.976175
+Nickel	10291.527700999999
+Insulin	7387.876188
+Heregulin	7011.622863
+Cisplatin	6844.584398999999
+Hypochlorous acid	6196.303072
+Nitric oxide	4543.00864
+Letrozole	4026.0667390000003
+Propofol	3463.6626189999997
+Mesalazine	3414.485952
+Curcumin	2771.195581
+Sevoflurane	2194.38312
+Ribavirin	1612.950741
+Azacitidine	1588.356836
+1,25 dihydroxyvitamin d	1582.8245340000003
+1,2,4-benzenetriol	1494.303426
+3,3',4,4'-tetrachlorobiphenyl	1399.6354270000002
+Methylphenidate	1348.808125
+Zinc acetate	1328.1132160000002
+Bisphenol a	1190.7443279999998
+Cigarette smoke	935.09996
+Anastrozole	725.5763330000001
+Metformin	716.0785920000001
+Arachidonic acid	686.0919
+Vx	653.858336
+Decitabine	628.238016
+Plx4032	617.639592
+Azathioprine	586.4593769999999
+Pioglitazone	576.550201
+Cycloheximide	564.115862
+Bexarotene	509.41971
+2,2',4,4',5,5'-hexachlorobiphenyl   (pcb-153)	478.71313599999996
+Diclofenac	442.37320000000005
+Sulforaphane	381.476654
+Ubiquinol	369.456
+Lipopolysaccharide	324.686879
+Laminin	286.475597
+Nsc319726	282.773399
+Levofloxacin	266.87131999999997
+Ciprofloxacin	261.63567
+Promegestone	199.348771
+Alfacalcidol	189.70560000000003
+Ethanol	181.594608
+Quercetin	168.96055
+Formoterol	167.138279
+Imatinib	154.562808
+Dasatinib	148.73019
+Vemurafenib	137.29059900000001
+Tibolone	129.11571
+Sangivamycin (nsc 65346)	113.87078699999999
+Imatinib (glivec)	109.29568400000001
+Plx4720	84.061604
+Torcetrapib	75.26561
+Cocaine	64.361429
+Citalopram	53.056889999999996
+Hydrocortisone	53.024635
+Methotrexate	43.575945000000004
+Adenosine triphosphate	42.23472
+Triiodothyronine-[13c6] hydrochloride (t3 thyronine)	41.002988
+Isotretinoin	37.984744000000006
+Phorbol 12-myristate 13-acetate (pma)	34.314635
+Trastuzumab	32.550182
+Gamma-tocotrienol	24.235847999999997
+Foretinib	21.193172
+Grepafloxacin	19.38625
+Chlorpyrifos	14.243079
+Abiraterone	11.651358
+Sirolimus	10.457392
+Aplidin	10.064641999999997
+4-hydroxytamoxifen	9.028876
+Thapsigargin	8.231166
+Fluticasone	5.595439
+Epz004777	4.360838
+Cyfluthrin	3.501339
+Atorvastatin	3.10708
+Calcitriol	0.9639000000000001
+
+--------------------
+Down reg Drug	Score
+Curcumin	-7841.2830300000005
+Cadmium	-6634.3475450000005
+Hydroxyzine	-3449.7695760000006
+2,3-dimethoxy-1,4-naphtoquinone (dmnq)	-1635.590264
+Cigarette smoke	-1314.617815
+Sapphyrin pci-2050 (2.5 &icirc;&frac14;m)	-800.093151
+Sapphyrin pci-2050 (1.25 &icirc;&frac14;m)	-704.04311
+Nsc319726	-518.91076
+Celecoxib	-371.61858
+Carboplatin	-280.636621
+Carboplatin (36 h)	-259.860978
+Mek inhibitor (meki : azd6244)	-240.57551499999997
+Carboplatin (30 h)	-224.88579199999998
+Carboplatin (24 h)	-161.024965
+Plx4720	-138.098156
+Dasatinib	-122.32251399999998
+Cyfluthrin	-91.85603700000001
+Harman	-84.55203
+Lipopolysaccharide	-80.375188
+Actinomycin d	-75.114942
+Bortezomib	-69.87964099999999
+Alfacalcidol	-53.31928
+Trastuzumab	-35.482056
+Tibolone	-25.545201
+Androstanolone	-25.294776000000002
+Pimecrolimus	-12.172149000000001
+Torcetrapib	-9.882509
+R1881	-8.547744
+Thapsigargin	-2.239874

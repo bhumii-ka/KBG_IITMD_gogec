@@ -1,0 +1,172 @@
+Up reg Drug	Score
+Nitric oxide	59414.702754
+Mercury	45011.795870999995
+Nickel	32633.594673999996
+Vanadium pentoxide	28224.983840000004
+1,2,4-benzenetriol	12588.226363999998
+Aminolevulinic acid	11958.93324
+Hypochlorous acid	10502.778839999999
+Hydroxyzine	10148.743645999999
+Dmnq   (2,3-dimethoxy-1,4-naphthoquinone)	8238.286604
+Sevoflurane	5375.303174
+Propofol	5216.24367
+Cisplatin	4954.138236000001
+Mycophenolic acid	4636.231578
+Azacitidine	4145.751888
+Heregulin	4108.34226
+Azathioprine	3693.254645
+Ethanol	3582.0032850000002
+Insulin	3096.5734589999997
+Nsc319726	2480.66028
+Adenosine triphosphate	2414.01899
+2,2',4,4',5,5'-hexachlorobiphenyl   (pcb-153)	2303.285455
+Letrozole	2281.124356
+Cytarabine	1989.007719
+Formoterol	1983.68888
+Mesalazine	1779.941898
+Decitabine	1679.4313089999998
+Vx	1542.707657
+Laminin	1507.547573
+Bpde	1499.0601780000002
+Cocaine	1498.8665760000001
+Temozolomide	1428.7237440000001
+Antimony	1383.84288
+Cigarette smoke	1325.47875
+Nilotinib	1114.152864
+Cediranib	1066.860307
+Folic acid	985.71525
+Pioglitazone	944.68024
+Sapphyrin pci-2050 (1.25 &icirc;&frac14;m)	850.281908
+2,3,7,8-tetrachlorodibenzo-p-dioxin	809.4132690000001
+Grepafloxacin	697.861358
+Motexafin gadolinium (4 h)	693.51048
+Ribavirin	652.517888
+Sapphyrin pci-2050 (2.5 &icirc;&frac14;m)	533.9496
+Fenretinide	391.653272
+Imatinib (glivec)	375.676776
+Anastrozole	366.35667
+Ubiquinol	347.42939700000005
+Deferasirox	347.25651999999997
+Diclofenac	346.88382
+Apratoxin a	324.45049000000006
+Cyfluthrin	211.88817
+4-hydroxytamoxifen	204.598424
+Mln4924	169.77831
+Methotrexate	126.126306
+Foretinib	124.758021
+Harman	110.476646
+Metoprolol	97.821608
+Citalopram	90.47341200000001
+Tretinoin	90.012132
+Chlorpyrifos	68.438784
+Promegestone	66.946179
+Nvp-tnks656	65.025104
+Lmp-420	62.800412
+Atorvastatin	50.880829999999996
+Aplidin	45.838907999999996
+Androstanolone	32.462019
+Estradiol	25.291148
+Tibolone	23.047179999999997
+Phorbol 12-myristate 13-acetate (pma)	22.83984
+Actinomycin d	20.09952
+Telapristone acetate	17.86456
+Dexamethasone	15.776726
+Pimecrolimus	6.5531429999999995
+
+--------------------
+Down reg Drug	Score
+Vanadium pentoxide	-50920.889106
+Antimony	-34131.627250000005
+Hypochlorous acid	-26947.366078
+Mercury	-25825.728058999997
+2,3,7,8-tetrachlorodibenzo-p-dioxin (tcdd)	-24419.851193999995
+Chromium	-22698.932345
+Arsenic	-20199.103509
+Phenol	-16955.676504
+Dmnq   (2,3-dimethoxy-1,4-naphthoquinone)	-12660.394785
+Mycophenolic acid	-10541.995082000001
+Hydroxyzine	-9560.301401
+Cadmium	-6768.604512
+1,2,4-benzenetriol	-6734.637046999999
+Puromycin, ec50, 5 d	-6678.681974
+Nickel	-4774.000308000001
+Aminolevulinic acid	-4725.29997
+Bpde	-2972.880468
+Metformin	-2386.096164
+Chlorambucil	-2287.550769
+Puromycin, ec50, 3 d	-2053.7852159999998
+Puromycin, 2xec50, 3 d	-2042.0144639999999
+Fluorouracil	-1878.41882
+Motexafin gadolinium (4 h)	-1868.7501320000001
+Carboplatin	-1730.921164
+Cocaine	-1701.797297
+Motexafin gadolinium	-1547.949348
+Lysophosphatidic acid	-1300.382325
+Azacitidine	-1276.52728
+Temozolomide	-1160.37369
+Cytarabine	-923.0815720000002
+Puromycin, 2xec50, 1d	-844.759156
+Sevoflurane	-843.4445880000001
+Ubiquinol	-821.130632
+Sapphyrin pci-2050 (2.5 &icirc;&frac14;m)	-803.9892500000001
+Nsc319726	-799.978642
+Carboplatin (24 h)	-790.6755019999999
+3,3',4,4'-tetrachlorobiphenyl	-726.3104999999999
+Methylphenidate	-665.13446
+Bortezomib	-652.578604
+Fgfr-specific pd173074 inhibitor	-640.5151209999999
+Puromycin, ec50, 1 d	-634.49386
+Mesalazine	-630.99419
+Sorafenib	-623.5047599999999
+Celecoxib	-617.174196
+Laminin	-596.6243059999999
+Vx	-579.877601
+Cigarette smoke	-573.773541
+Sapphyrin pci-2050 (1.25 &icirc;&frac14;m)	-559.935208
+Carboplatin (30 h)	-493.54050000000007
+Letrozole	-369.51658999999995
+2,3,7,8-tetrachlorodibenzo-p-dioxin	-355.35031200000003
+Formoterol	-348.05324900000005
+Mek inhibitor (meki : azd6244)	-318.911094
+Ciprofloxacin	-295.936744
+Carboplatin (36 h)	-284.73368
+Isotretinoin	-283.355236
+Metoprolol	-258.031288
+Vemurafenib	-234.545139
+Nicotine	-233.64749599999996
+Quercetin	-230.34728299999998
+Imatinib	-166.31095
+Plx4720	-161.17739999999998
+Propofol	-119.75362
+Harman	-113.965458
+Gatifloxacin	-109.68440000000001
+Azathioprine	-107.14302300000001
+Anastrozole	-99.77915399999999
+Cediranib	-94.54302000000001
+Hydrocortisone	-89.516712
+Gamma-tocotrienol	-84.880518
+Dasatinib	-60.343931
+Lipopolysaccharide	-59.610082000000006
+Promegestone	-53.611488
+Actinomycin d	-53.275501
+Telapristone acetate	-41.988876000000005
+Trastuzumab	-40.444311
+Foretinib	-38.13032
+Argyrin a	-33.964467000000006
+Aplidin	-32.304275000000004
+Torcetrapib	-30.28615
+Estradiol	-25.774613000000002
+Cyfluthrin	-23.006280000000004
+Tibolone	-22.349911999999996
+Dexamethasone	-21.452276
+Chlorpyrifos	-20.937167000000002
+Atorvastatin	-20.621092
+Neocarzinostatin	-19.967222
+Triiodothyronine-[13c6] hydrochloride (t3 thyronine)	-19.756512
+Testosterone	-14.301456
+Androstanolone	-12.424499999999998
+Epz004777	-8.701517
+Pimecrolimus	-7.7866789999999995
+Y15	-4.908436
+Mk-886	-3.6670499999999997
+Thapsigargin	-2.8844640000000004

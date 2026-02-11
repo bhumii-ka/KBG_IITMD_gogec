@@ -1,0 +1,143 @@
+Up reg Drug	Score
+Mercury	16012.073984999999
+Cisplatin	14917.383997
+Chromium	11884.52397
+Zinc acetate	9864.462303
+Phenol	9734.954695
+Nickel	9688.137536999999
+Curcumin	9590.20127
+Insulin	7688.634481
+Hypochlorous acid	6196.303072
+Antimony	5621.568853999999
+Cadmium	5501.1236
+Temozolomide	3807.25356
+Mesalazine	3414.485952
+Dmnq   (2,3-dimethoxy-1,4-naphthoquinone)	3258.711138
+Azacitidine	2613.7598399999997
+1,2,4-benzenetriol	2162.8473460000005
+Bpde	2106.386453
+Arachidonic acid	1814.2511490000002
+Promegestone	1747.4780890000002
+Methylphenidate	1744.290564
+Hydroxyzine	1661.7838410000002
+Ethanol	1622.821212
+Motexafin gadolinium	1566.769512
+Sb 216763	1485.4603989999998
+Cocaine	1453.1543689999999
+Letrozole	1363.734371
+Sulforaphane	1257.308476
+Bisphenol a	1190.7443279999998
+Ubiquinol	1072.2539299999999
+Sevoflurane	885.1064480000001
+Ribavirin	882.629149
+2,2',4,4',5,5'-hexachlorobiphenyl   (pcb-153)	849.4563740000001
+Cycloheximide	819.544122
+1,25 dihydroxyvitamin d	654.2553800000001
+Folic acid	594.456085
+Diclofenac	569.7593870000001
+Vx	534.531408
+Formoterol	519.323546
+Sapphyrin pci-2050 (2.5 &icirc;&frac14;m)	499.894765
+Plx4032	468.6515129999999
+2,3,7,8-tetrachlorodibenzo-p-dioxin	427.566364
+Cholestyramine	417.742062
+Dasatinib	404.95779
+Cigarette smoke	385.37830999999994
+Bexarotene	282.669375
+Quercetin	253.94752100000002
+Resveratrol	253.42445200000003
+Lipopolysaccharide	245.028619
+Imatinib (glivec)	216.35214100000002
+Alfacalcidol	210.964418
+Pioglitazone	199.01025900000002
+Anastrozole	188.54632900000001
+Levofloxacin	183.93536999999998
+Propofol	168.34949999999998
+Ciprofloxacin	158.625254
+Foretinib	128.58427
+Mek inhibitor (meki : azd6244)	124.83035400000001
+Hydrocortisone	119.33956500000001
+Paclitaxel	113.244737
+Vemurafenib	109.11150799999999
+Cyfluthrin	77.20287400000001
+Trastuzumab	73.370536
+Telapristone acetate	72.25436199999999
+Harman	68.80024
+Lmp-420	61.526914000000005
+Cediranib	58.931400000000004
+Celecoxib	54.151625
+Aplidin	53.73849799999999
+Apratoxin a	53.669892
+Sorafenib	46.45709
+Metoprolol	43.806114
+Grepafloxacin	39.881139000000005
+Triiodothyronine-[13c6] hydrochloride (t3 thyronine)	38.690453
+Isotretinoin	38.253817000000005
+Chlorpyrifos	36.52528
+Actinomycin d	18.13294
+Torcetrapib	17.134417999999997
+Tibolone	13.569059
+Testosterone	12.306131
+Phorbol 12-myristate 13-acetate (pma)	11.798513999999999
+Pimecrolimus	11.305055000000001
+4-hydroxytamoxifen	8.899748
+Calcitriol	8.188500000000001
+Neocarzinostatin	7.992568
+Dexamethasone	6.63698
+Estradiol	5.150830000000001
+Fluticasone	3.168751
+Abiraterone	2.96354
+Mk-886	2.8760410000000003
+Thapsigargin	2.690916
+Atorvastatin	2.3240600000000002
+
+--------------------
+Down reg Drug	Score
+Vanadium pentoxide	-15072.591828
+Heregulin	-10411.993697
+Mycophenolic acid	-6077.692672
+Mercury	-5896.092872
+Temozolomide	-4098.701002000001
+Chromium	-3221.483661
+Nickel	-2816.884836
+Ethanol	-2492.814446
+Curcumin	-2416.80806
+Puromycin, 2xec50, 1d	-2369.305784
+Arsenic	-2223.776648
+Dmnq   (2,3-dimethoxy-1,4-naphthoquinone)	-1933.3820600000001
+Decitabine	-1294.68357
+Azacitidine	-1292.125881
+Fgfr-specific pd173074 inhibitor	-1091.944984
+Ubiquinol	-957.1327429999999
+Antimony	-890.4711839999999
+Mesalazine	-733.814642
+Letrozole	-570.05136
+Sulforaphane	-529.245684
+Doxorubicin	-527.766104
+Sapphyrin pci-2050 (2.5 &icirc;&frac14;m)	-406.748479
+Dasatinib	-404.12683200000004
+Sapphyrin pci-2050 (1.25 &icirc;&frac14;m)	-375.972712
+2,3,7,8-tetrachlorodibenzo-p-dioxin	-363.32418
+Formoterol	-315.109641
+Cocaine	-277.22573299999993
+Resveratrol	-204.23545000000001
+Bortezomib	-175.61907
+Nilotinib	-167.12903400000002
+Mek inhibitor (meki : azd6244)	-149.62699700000002
+Trastuzumab	-148.486607
+Sb 216763	-131.973417
+Colchicine	-130.0796
+Plx4032	-125.049048
+Metoprolol	-108.24192
+Tretinoin	-96.299775
+Celecoxib	-88.696
+Anastrozole	-74.37539199999999
+Actinomycin d	-29.260614
+Isotretinoin	-24.520774
+Neocarzinostatin	-13.613328
+Torcetrapib	-12.676766
+Tibolone	-9.781542
+Aplidin	-9.092824
+Atorvastatin	-4.0163519999999995
+Fluticasone	-1.45578
+Y15	-1.136618

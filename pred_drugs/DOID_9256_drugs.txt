@@ -1,0 +1,134 @@
+Up reg Drug	Score
+2,3,7,8-tetrachlorodibenzo-p-dioxin (tcdd)	43929.243759000005
+Hydroxyzine	39539.40190800001
+Mercury	24425.453658
+Chromium	22635.915474
+Nickel	17103.864344
+Nitric oxide	10226.847198
+Antimony	8231.465589
+Cadmium	7634.014407
+Carboplatin	6964.221355000001
+Phenol	5611.816811999999
+2,3-dimethoxy-1,4-naphtoquinone (dmnq)	5590.6151469999995
+Hypochlorous acid	4882.712210999999
+Methylphenidate	4421.071621
+Bisphenol a	2968.756113
+Arsenic	2909.645505
+Curcumin	2740.841115
+Cytarabine	2659.7301119999997
+Carboplatin (24 h)	2507.245395
+Chlorambucil	2491.13648
+Ethanol	1918.6499669999998
+Carboplatin (36 h)	1530.097774
+Letrozole	1463.6685280000002
+1,25 dihydroxyvitamin d	1308.36672
+Ribavirin	1248.9556739999998
+Carboplatin (30 h)	1166.296715
+Propofol	1022.6502879999999
+Cocaine	796.092724
+1,2,4-benzenetriol	786.120094
+Sangivamycin (nsc 65346)	750.0882
+Nsc319726	740.069491
+Cigarette smoke	718.213456
+Argyrin a	697.7255399999999
+2,2',4,4',5,5'-hexachlorobiphenyl   (pcb-153)	656.07367
+Sb 216763	561.488546
+Arachidonic acid	541.2204479999999
+Plx4720	409.192668
+Alfacalcidol	393.144946
+Adenosine triphosphate	326.47049
+Harman	321.989348
+Citalopram	277.431309
+Cycloheximide	256.896869
+2,3,7,8-tetrachlorodibenzo-p-dioxin	222.779356
+Azathioprine	201.111936
+Diclofenac	145.13235600000002
+Hydrocortisone	124.84586699999998
+Paclitaxel	123.864795
+Deferasirox	118.647561
+Promegestone	118.000589
+Dasatinib	105.212745
+Torcetrapib	97.00706
+Vx	89.65704000000001
+Folic acid	87.927804
+Foretinib	77.44664999999999
+Colchicine	74.395584
+Lipopolysaccharide	63.739224
+Sulforaphane	58.389254
+Tibolone	37.648407
+Cyfluthrin	36.382328
+Methotrexate	31.962735000000002
+Lmp-420	30.672248
+Androstanolone	30.234633
+Actinomycin d	24.66765
+Telapristone acetate	17.867707
+Sirolimus	14.396022
+Aplidin	10.804352000000002
+Thapsigargin	7.1401580000000004
+Nvp-tnks656	6.6697500000000005
+Chlorpyrifos	6.360443999999999
+R1881	5.414398000000001
+Epz004777	2.317055
+Fenretinide	2.0103519999999997
+Fluticasone	1.240801
+
+--------------------
+Down reg Drug	Score
+2,3,7,8-tetrachlorodibenzo-p-dioxin (tcdd)	-20214.218235999997
+Nickel	-17548.727184
+Curcumin	-14666.663847999998
+Sapphyrin pci-2050 (2.5 &icirc;&frac14;m)	-9368.182325
+Sapphyrin pci-2050 (1.25 &icirc;&frac14;m)	-8742.446544
+Bisphenol a	-7742.937038
+Chlorambucil	-7520.427696000001
+Cadmium	-6554.689676999999
+Vanadium pentoxide	-4356.66668
+Mesalazine	-3277.5819520000005
+Mycophenolic acid	-3012.370053
+Bpde	-2184.4669679999997
+Motexafin gadolinium	-2046.090011
+Puromycin, ec50, 5 d	-2045.246274
+Temozolomide	-1949.995872
+3,3',4,4'-tetrachlorobiphenyl	-1785.697515
+Nitric oxide	-1503.3114960000003
+Ethanol	-1471.7757960000001
+1,25 dihydroxyvitamin d	-1394.711424
+Carboplatin (24 h)	-1311.7204470000001
+Ubiquinol	-1293.7924460000002
+Methylphenidate	-1170.237108
+Heregulin	-1097.25408
+Sevoflurane	-886.033863
+Cocaine	-790.654003
+Citalopram	-675.7516579999999
+Vx	-517.006567
+Anastrozole	-361.67224400000003
+Cycloheximide	-313.88471100000004
+Alfacalcidol	-300.925698
+Laminin	-298.731378
+Carboplatin (30 h)	-274.035282
+Mek inhibitor (meki : azd6244)	-263.03901
+Sb 216763	-257.68937999999997
+Azathioprine	-255.352842
+Pioglitazone	-249.873624
+Diclofenac	-219.38671799999997
+Paclitaxel	-163.77354400000002
+Mln4924	-157.960579
+Cediranib	-137.488039
+Argyrin a	-132.26003400000002
+Actinomycin d	-130.051829
+Hydrocortisone	-129.74552500000001
+Doxycycline	-90.58376700000001
+Bortezomib	-88.67433
+Pimecrolimus	-85.67077800000001
+Atorvastatin	-65.408185
+Neocarzinostatin	-59.804520000000004
+Fenretinide	-56.74023
+Phorbol 12-myristate 13-acetate (pma)	-54.78433
+Lmp-420	-47.323317
+Androstanolone	-41.153035
+Mk-886	-29.217471000000003
+4-hydroxytamoxifen	-27.798027999999995
+Tibolone	-23.091672000000003
+R1881	-13.344792
+Dexamethasone	-10.684000000000001
+Epz004777	-5.192472

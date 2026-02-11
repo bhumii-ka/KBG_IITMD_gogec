@@ -1,0 +1,20 @@
+DOID,num_gt,num_pred,num_matched,recall,matched_drugs
+DOID:1240,12,33,6,0.5,"['Dexamethasone', 'Methotrexate', 'Hydrocortisone', 'Imatinib', 'Propofol', 'Dasatinib']"
+DOID:2394,6,41,2,0.3333333333333333,"['Methotrexate', 'Paclitaxel']"
+DOID:2154,1,25,0,0.0,[]
+DOID:0050589,2,11,0,0.0,[]
+DOID:3910,2,26,1,0.5,['Carboplatin']
+DOID:4556,2,54,1,0.5,['Paclitaxel']
+DOID:0050742,1,40,0,0.0,[]
+DOID:3498,1,36,0,0.0,[]
+DOID:9256,3,22,0,0.0,[]
+DOID:971,1,47,0,0.0,[]
+DOID:381,1,28,0,0.0,[]
+DOID:5082,1,71,0,0.0,[]
+DOID:6432,2,30,0,0.0,[]
+DOID:13949,1,58,0,0.0,[]
+DOID:9008,2,30,0,0.0,[]
+DOID:419,1,52,1,1.0,['Imatinib']
+DOID:5409,3,35,1,0.3333333333333333,['Carboplatin']
+DOID:7147,4,41,1,0.25,['Hydrocortisone']
+DOID:4450,2,26,0,0.0,[]

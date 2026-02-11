@@ -1,0 +1,132 @@
+Up reg Drug	Score
+Aminolevulinic acid	14202.691796
+1,2,4-benzenetriol	8734.550453
+Nickel	8084.19561
+Carboplatin	6668.387245
+3,3',4,4'-tetrachlorobiphenyl	5897.856377
+Zinc acetate	4512.766944
+Temozolomide	3838.6494989999997
+Motexafin gadolinium	3510.18018
+Nitric oxide	3337.247264
+Insulin	3096.5734589999997
+Letrozole	2281.124356
+Carboplatin (30 h)	1935.252432
+Propofol	1569.4908320000002
+Nilotinib	1511.562849
+Cocaine	1498.8665760000001
+Sevoflurane	1406.323857
+Carboplatin (36 h)	1365.4047239999998
+Nsc319726	1353.370944
+Pioglitazone	1338.14653
+Carboplatin (24 h)	1187.57879
+Adenosine triphosphate	733.050318
+Celecoxib	503.030124
+Cediranib	409.095827
+Anastrozole	366.35667
+Arachidonic acid	355.56355199999996
+Lipopolysaccharide	277.603452
+Citalopram	253.35557599999999
+Paclitaxel	228.932206
+Promegestone	199.090791
+Deferasirox	198.240916
+Imatinib (glivec)	188.504225
+Laminin	139.284306
+Trastuzumab	136.721444
+Cycloheximide	129.885932
+Methotrexate	117.44073
+Azathioprine	110.24381100000001
+Bortezomib	109.052898
+Atorvastatin	88.234444
+Argyrin a	87.939084
+2,3,7,8-tetrachlorodibenzo-p-dioxin	78.87660000000001
+Gamma-tocotrienol	61.992216000000006
+Tibolone	23.047179999999997
+Fenretinide	19.264514000000002
+Telapristone acetate	19.253345999999997
+Sirolimus	13.332456
+Testosterone	13.062591999999999
+4-hydroxytamoxifen	6.0570900000000005
+R1881	4.861821
+Pimecrolimus	4.621437
+
+--------------------
+Down reg Drug	Score
+Nickel	-59404.513515
+Carboplatin	-16845.399132
+Sapphyrin pci-2050 (2.5 &icirc;&frac14;m)	-15089.739877
+Sapphyrin pci-2050 (1.25 &icirc;&frac14;m)	-14135.582159000001
+Bisphenol a	-11952.267242
+Chlorambucil	-10114.531695000001
+Hypochlorous acid	-8028.035316
+Mercury	-7120.697622000001
+Carboplatin (24 h)	-7018.595976
+Cadmium	-6554.689676999999
+Curcumin	-6124.410809999999
+Letrozole	-5999.3971200000005
+2,3-dimethoxy-1,4-naphtoquinone (dmnq)	-5343.169468
+Metformin	-5028.092790000001
+Heregulin	-4294.5786
+Bpde	-4206.684816
+Arsenic	-4181.939776
+Carboplatin (30 h)	-3974.857457
+Lysophosphatidic acid	-3346.478024
+Mesalazine	-3277.5819520000005
+Carboplatin (36 h)	-3274.0249489999997
+Anastrozole	-3198.820307
+Insulin	-3163.48361
+Aminolevulinic acid	-2461.7199
+Fenretinide	-2141.985588
+3,3',4,4'-tetrachlorobiphenyl	-1974.695898
+Puromycin, ec50, 5 d	-1894.342292
+Vx	-1657.260903
+Ciprofloxacin	-1649.225271
+Nsc319726	-1623.5579109999999
+Ubiquinol	-1293.7924460000002
+Cycloheximide	-1105.332356
+Adenosine triphosphate	-1096.9000560000002
+Metoprolol	-925.207205
+Sevoflurane	-886.033863
+Cediranib	-787.892305
+Propofol	-736.123851
+Citalopram	-586.055057
+Mln4924	-511.13070200000004
+Bexarotene	-488.728164
+Cocaine	-478.569546
+Gatifloxacin	-448.512132
+Harman	-442.98970299999996
+Mek inhibitor (meki : azd6244)	-427.33419000000004
+Sangivamycin (nsc 65346)	-399.07021399999996
+Celecoxib	-371.61858
+Dasatinib	-360.584138
+2,3,7,8-tetrachlorodibenzo-p-dioxin	-341.29850000000005
+Quercetin	-260.186256
+Azathioprine	-255.352842
+Pioglitazone	-249.873624
+Foretinib	-244.36589999999998
+Actinomycin d	-238.18676799999997
+Laminin	-236.289028
+Isotretinoin	-232.258574
+Alfacalcidol	-227.51423100000002
+Hydrocortisone	-208.51834000000002
+Luteolin	-176.90738600000003
+Tretinoin	-140.632334
+Pimecrolimus	-119.74642800000001
+Imatinib (glivec)	-112.90171199999999
+Androstanolone	-111.981891
+Grepafloxacin	-110.923726
+Deferasirox	-109.251863
+Plx4720	-109.07459200000001
+Methotrexate	-85.167756
+Lmp-420	-65.890071
+Y15	-62.005143000000004
+Trastuzumab	-52.22539
+Apratoxin a	-49.617968000000005
+Calcitriol	-48.021472
+4-hydroxytamoxifen	-30.866058
+R1881	-29.216691
+Torcetrapib	-25.039168000000004
+Phorbol 12-myristate 13-acetate (pma)	-17.215641
+Mk-886	-10.904904
+Fluticasone	-8.104715999999998
+Dexamethasone	-6.47583
+Estradiol	-4.860394

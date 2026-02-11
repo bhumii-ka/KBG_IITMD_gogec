@@ -1,0 +1,23 @@
+UMLS,DOID,drugs
+C0023418,DOID:1240,"{'Propofol', 'Dasatinib', 'Imatinib', 'Dexamethasone', 'Sirolimus', 'Bortezomib', 'Doxorubicin', 'Hydrocortisone', 'Methotrexate', 'Cytarabine', 'Azacitidine', 'Mycophenolic acid'}"
+C0919267,DOID:2394,"{'Paclitaxel', 'Carboplatin', 'Doxorubicin'}"
+C0027708,DOID:2154,{'Doxorubicin'}
+C0021390,DOID:0050589,"{'Hydrocortisone', 'Dexamethasone'}"
+C0152013,DOID:3910,"{'Paclitaxel', 'Carboplatin'}"
+C0345958,DOID:4556,"{'Paclitaxel', 'Carboplatin'}"
+C1332219,DOID:2154,{'Doxorubicin'}
+C1333015,DOID:2154,{'Doxorubicin'}
+C0028043,DOID:0050742,{'Nicotine'}
+C1335302,DOID:3498,{'Paclitaxel'}
+C0009404,DOID:9256,"{'Celecoxib', 'Fluorouracil', 'Sorafenib'}"
+C0039503,DOID:971,{'Hydrocortisone'}
+C0157749,DOID:381,{'Ciprofloxacin'}
+C0023890,DOID:5082,{'Dexamethasone'}
+C0020542,DOID:6432,"{'Nitric Oxide', 'Imatinib'}"
+C0282488,DOID:13949,{'Mycophenolic acid'}
+C0003872,DOID:9008,"{'Hydrocortisone', 'Dexamethasone'}"
+C0011644,DOID:419,{'Imatinib'}
+C0149925,DOID:5409,"{'Carboplatin', 'Cisplatin', 'Doxorubicin'}"
+C0038013,DOID:7147,"{'Celecoxib', 'Hydrocortisone', 'Diclofenac', 'Dexamethasone'}"
+C1140680,DOID:2394,"{'Carboplatin', 'Doxorubicin', 'Methotrexate', 'Cisplatin', 'Celecoxib', 'Paclitaxel'}"
+C0007134,DOID:4450,"{'Sorafenib', 'Sirolimus'}"

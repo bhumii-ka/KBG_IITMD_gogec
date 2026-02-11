@@ -1,0 +1,141 @@
+Up reg Drug	Score
+Phenol	43192.140360000005
+Mercury	27099.756925
+Cadmium	21958.474308
+Antimony	20286.361342999997
+Dmnq   (2,3-dimethoxy-1,4-naphthoquinone)	18256.134536
+Hypochlorous acid	15377.082305000002
+3,3',4,4'-tetrachlorobiphenyl	12654.391464
+Heregulin	12007.355534999999
+Nickel	6405.349187999999
+Mesalazine	5077.614629
+Arsenic	4686.503856
+Curcumin	4484.85196
+Bisphenol a	2577.309659
+Aminolevulinic acid	1687.691592
+Motexafin gadolinium	1379.6044920000002
+Decitabine	1276.561185
+Ribavirin	1169.3055120000001
+Azathioprine	917.92385
+Sulforaphane	907.50309
+Insulin	897.569145
+Methylphenidate	790.9595099999999
+Ubiquinol	747.1162310000001
+Bexarotene	731.424519
+Quercetin	541.967612
+Lipopolysaccharide	497.17217400000004
+Cediranib	428.937335
+2,2',4,4',5,5'-hexachlorobiphenyl   (pcb-153)	397.498816
+Ciprofloxacin	382.69350000000003
+Temozolomide	378.083034
+1,25 dihydroxyvitamin d	327.441208
+Plx4720	280.028704
+Fgfr-specific pd173074 inhibitor	265.68251100000003
+Cycloheximide	262.766982
+Formoterol	214.247694
+Motexafin gadolinium (4 h)	183.770584
+Argyrin a	182.70648
+Laminin	145.002588
+Vemurafenib	113.12942
+Methotrexate	111.813603
+Levofloxacin	107.299112
+Foretinib	82.616839
+Gamma-tocotrienol	56.805344999999996
+Dexamethasone	53.392132000000004
+Celecoxib	42.914688000000005
+Isotretinoin	33.574965
+Mk-886	30.955470000000002
+Apratoxin a	11.219318
+Torcetrapib	11.052849
+Fluticasone	3.215732
+
+--------------------
+Down reg Drug	Score
+Gefitinib	-61869.206132
+Hypochlorous acid	-27158.570988
+2,3,7,8-tetrachlorodibenzo-p-dioxin (tcdd)	-22431.224101
+Hydroxyzine	-18916.712532
+1,2,4-benzenetriol	-18775.864577
+Nickel	-10209.750261000001
+3,3',4,4'-tetrachlorobiphenyl	-7054.021784
+Vanadium pentoxide	-6988.907213999999
+Lysophosphatidic acid	-6684.347170999999
+Phenol	-5514.908460000001
+Bisphenol a	-5338.598715
+Curcumin	-5012.389711
+Mesalazine	-4076.772939
+Puromycin, ec50, 5 d	-3988.615084
+Nitric oxide	-3763.6724520000002
+Chlorambucil	-2879.1857219999997
+Motexafin gadolinium (4 h)	-2292.9372900000003
+Letrozole	-1798.0659110000001
+2,3,7,8-tetrachlorodibenzo-p-dioxin	-1599.958342
+Temozolomide	-1571.2256899999998
+Carboplatin	-1564.374684
+Puromycin, 2xec50, 1d	-1482.013639
+Aminolevulinic acid	-1462.12192
+Cytarabine	-1249.124469
+Cigarette smoke	-1185.5907590000002
+Fgfr-specific pd173074 inhibitor	-1105.8839600000001
+Formoterol	-1048.86615
+Dasatinib	-1015.344199
+Puromycin, ec50, 3 d	-968.9756699999999
+Sorafenib	-896.7508300000001
+Cycloheximide	-855.030407
+Puromycin, 2xec50, 3 d	-809.8028080000001
+Ubiquinol	-796.7890789999999
+Ciprofloxacin	-732.7251359999999
+Cediranib	-729.953111
+1,25 dihydroxyvitamin d	-705.888073
+Puromycin, ec50, 1 d	-657.021839
+Carboplatin (30 h)	-619.852614
+Anastrozole	-596.974937
+Cocaine	-559.54305
+Sapphyrin pci-2050 (2.5 &icirc;&frac14;m)	-550.34526
+Azathioprine	-457.328726
+Nilotinib	-447.14303299999995
+Laminin	-405.19849200000004
+Nicotine	-379.09055
+Adenosine triphosphate	-366.69571899999994
+Carboplatin (24 h)	-365.6424109999999
+Vx	-346.494978
+Imatinib	-333.17716099999996
+Harman	-329.96891100000005
+Resveratrol	-328.34921999999995
+Quercetin	-321.050225
+Nsc319726	-295.96169
+Carboplatin (36 h)	-274.80751
+Citalopram	-259.520014
+Folic acid	-234.50339100000002
+Alfacalcidol	-230.631947
+Plx4720	-227.083007
+Mek inhibitor (meki : azd6244)	-199.94832
+Gatifloxacin	-171.85650900000002
+Sapphyrin pci-2050 (1.25 &icirc;&frac14;m)	-168.75627999999998
+Luteolin	-151.71159799999998
+Tretinoin	-150.076055
+Tibolone	-148.15263599999997
+Fenretinide	-146.00807700000001
+Aplidin	-134.492479
+Plx4032	-124.86222000000001
+Bexarotene	-96.84534599999999
+Methotrexate	-93.98340999999999
+Paclitaxel	-86.13576
+Vemurafenib	-83.763585
+Lipopolysaccharide	-66.95246999999999
+Apratoxin a	-42.19254
+Sirolimus	-36.419197000000004
+Atorvastatin	-33.63045
+Gamma-tocotrienol	-33.335528
+Isotretinoin	-33.174967
+Actinomycin d	-33.150306
+Dexamethasone	-29.505829000000002
+Lmp-420	-29.441107000000002
+R1881	-19.118488
+Cyfluthrin	-14.765080000000001
+Hodgkin lymphoma	-13.719420000000001
+Chlorpyrifos	-13.453427000000001
+Fluticasone	-13.032288
+Thapsigargin	-9.676805
+Testosterone	-9.318921
+Calcitriol	-0.8779199999999999
