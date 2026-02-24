@@ -220,17 +220,10 @@ If you use this pipeline in your research, please cite:
 - **RDKit**: Cheminformatics toolkit for ADMET calculations
 - **Gene Expression Database**: Disease signature sources
 
-##  License
-
-This project is licensed under the MIT License - see LICENSE file for details.
-
-
-
 ##  Contact
 
 For questions and feedback:
 - Open an issue on GitHub
-- Email: [kbg@students.iitmandi.ac.in]
 
 ---
 
